@@ -1,0 +1,706 @@
+		<html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+			xmlns="http://www.w3.org/TR/REC-html40">
+		<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="ProgId" content="Word.Document"/>
+		<meta name="Generator" content="Microsoft Word 12"/>
+		<meta name="Originator" content="Microsoft Word 12"/>
+		<!--[if !mso]>
+		<style type="text/css">
+		v\:* {behavior:url(#default#VML);}
+		o\:* {behavior:url(#default#VML);}
+		w\:* {behavior:url(#default#VML);}
+		.shape {behavior:url(#default#VML);}
+		</style>
+		<![endif]-->
+		<!--[if gte mso 9]><xml>
+		 <w:WordDocument>
+		  <!--<w:View>Print</w:View>-->
+		  <w:TrackMoves>false</w:TrackMoves>
+		  <w:TrackFormatting/>
+		  <w:DoNotHyphenateCaps/>
+		  <w:PunctuationKerning/>
+		  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+		  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+		  <w:ValidateAgainstSchemas/>
+		  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+		  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+		  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+		  <w:DoNotPromoteQF/>
+		  <w:LidThemeOther>EN-US</w:LidThemeOther>
+		  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+		  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+		  <w:Compatibility>
+		   <w:BreakWrappedTables/>
+		   <w:SnapToGridInCell/>
+		   <w:WrapTextWithPunct/>
+		   <w:UseAsianBreakRules/>
+		   <w:DontGrowAutofit/>
+		   <w:SplitPgBreakAndParaMark/>
+		   <w:DontVertAlignCellWithSp/>
+		   <w:DontBreakConstrainedForcedTables/>
+		   <w:DontVertAlignInTxbx/>
+		   <w:Word11KerningPairs/>
+		   <w:CachedColBalance/>
+		  </w:Compatibility>
+		  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+		  <m:mathPr>
+		   <m:mathFont m:val="Cambria Math"/>
+		   <m:brkBin m:val="before"/>
+		   <m:brkBinSub m:val="&#45;-"/>
+		   <m:smallFrac m:val="off"/>
+		   <m:dispDef/>
+		   <m:lMargin m:val="0"/>
+		   <m:rMargin m:val="0"/>
+		   <m:defJc m:val="centerGroup"/>
+		   <m:wrapIndent m:val="1440"/>
+		   <m:intLim m:val="subSup"/>
+		   <m:naryLim m:val="undOvr"/>
+		  </m:mathPr></w:WordDocument>
+		</xml><![endif]-->
+		<style type="text/css">
+		<!--
+		 /* Font Definitions */
+		@font-face
+			{font-family:Verdana;
+			panose-1:2 11 6 4 3 5 4 4 2 4;
+			mso-font-charset:0;
+			mso-generic-font-family:swiss;
+			mso-font-pitch:variable;
+			mso-font-signature:536871559 0 0 0 415 0;}
+		 /* Style Definitions */
+		p.MsoNormal, li.MsoNormal, div.MsoNormal
+			{mso-style-unhide:no;
+			mso-style-qformat:yes;
+			mso-style-parent:"";
+			margin:0in;
+			margin-bottom:.0001pt;
+			mso-pagination:widow-orphan;
+			font-size:7.5pt;
+				mso-bidi-font-size:8.0pt;
+			font-family:"Verdana";
+			mso-fareast-font-family:"Verdana";}
+		p.small
+			{mso-style-parent:"";
+			margin:0in;
+			margin-bottom:.0001pt;
+			mso-pagination:widow-orphan;
+			font-size:1.0pt;
+				mso-bidi-font-size:1.0pt;
+			font-family:"Verdana";
+			mso-fareast-font-family:"Verdana";}
+		@page Section1
+			{
+			size: 11.0in 8.5in; mso-page-orientation: landscape;
+			margin:.5in .5in .5in .5in;
+			mso-header-margin:.5in;
+			mso-footer-margin:.5in;
+			mso-paper-source:0;}
+		div.Section1
+			{page:Section1;}
+		-->
+		</style>
+		<!--[if gte mso 10]>
+		<style>
+		 /* Style Definitions */
+		 table.MsoNormalTable
+			{mso-style-name:"Table Normal";
+			mso-tstyle-rowband-size:0;
+			mso-tstyle-colband-size:0;
+			mso-style-noshow:yes;
+			mso-style-priority:99;
+			mso-style-qformat:yes;
+			mso-style-parent:"";
+			mso-padding-alt:0in 5.4pt 0in 5.4pt;
+			mso-para-margin:0in;
+			mso-para-margin-bottom:.0001pt;
+			mso-pagination:widow-orphan;
+			font-size:10.0pt;
+			font-family:"Times New Roman","serif";}
+		</style>
+		<![endif]--><!--[if gte mso 9]><xml>
+		 <o:shapedefaults v:ext="edit" spidmax="1032">
+		  <o:colormenu v:ext="edit" strokecolor="none"/>
+		 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+		 <o:shapelayout v:ext="edit">
+		  <o:idmap v:ext="edit" data="1"/>
+		 </o:shapelayout></xml><![endif]-->
+		<title>Atlas - Computer Programming I (MO) Madison-Oneida BOCES &gt; 2016-2017 &gt; High School &gt; Information Technology &gt; Computer Programming I (MO) &gt; Ciaralli, Cindy; Cooper, Roy; Goldson, Lisa; Marris, Joshua; Pitman, Nancy; Regner, Chris</title>
+<style>
+@charset "UTF-8";body {
+    font-family: Arial, sans-serif;
+}
+#MainWrapper {
+	padding-top: 22px;
+	height: auto;
+}
+.HideOnPrint,
+.AtlasWrapping,
+.AtlasButton {
+	display: none;
+}
+#PrintContent,
+.PrintOnlyContent {
+	display: block;
+}
+#SubHeaderContainer {
+	width: 100%;
+    margin-left: 6px;
+}
+#SubHeaderContainer td.LogoCell {
+	width: 80px;
+}
+.cke_contents {
+	height: 100% !important;
+}
+#content {
+	padding: 0;
+}
+#contentcontainer {
+	float:none;
+}
+/* Removes overflow: hidden and display:inline-block to enable printing */
+.WrapTable {
+	overflow: auto;
+	display: block;
+}
+#Atlas_Browse_View_Map .WrapTable {
+	overflow: hidden;
+}
+	/* Hide Buttons and Icons on print */
+.displayTable .AtlasButton,
+.displayTableHeader .DrilldownIndicator {
+	display: none;
+}
+/* Hide most of the breadcrumbs, except for the title which has PrintOnlyContent */
+.breadcrumbs ul li {
+	display: none;
+}
+.breadcrumbs li.BreadcrumbTitle {
+	display: list-item;
+}
+
+/* ICP: allow printing Atlas_Develop_UnitMap_Default. Make it look like browse-mode,
+hide moving pieces */
+
+.toggleeditor,
+.togglewidget {
+	margin: 1px 0;
+}
+
+/*Always show expanded rows*/
+table.main {
+	width: 98%;
+	margin: 0 auto;
+}
+.collapsedRow .collapsedCategory,
+.collapsedRowInSection .collapsedCategory {
+	display: none;
+}
+td[width="50"] {
+	width: 0 !important;
+}
+/* Force print-friendly borders on planner */
+#UnitMapContainer tr,
+#UnitMapContainer td,
+.EditUnit .toggleeditor,
+#UnitEditBarView #UnitSelectorTrigger:hover,
+#UnitEditBarView .Popover.Active #UnitSelectorTrigger,
+.EditUnit #UnitEditBarView #UnitSelectorTrigger {
+	border: none;
+}
+#UnitMapContainer > table > tbody > tr,
+#UnitMapContainer > table > tr {
+	border: 1px solid #c3c3c3 !important;
+}
+td.MappingCategoryCell {
+	border-bottom: 1px solid #c3c3c3 !important;
+	border-right: 1px solid #c3c3c3 !important;
+}
+td.MappingCategoryCell:last-child {
+	border-right: none !important;
+}
+.AttachmentIcon {
+	left: 0;
+}
+/* 
+*	Some ICP View/Edit elements require specific selectors for hiding effectively.
+*	Before adding selectors to this block, see if .HideOnPrint can handle hiding on its own
+*/
+#UnitMapContainer .UnitStandardAssessmentContainer .HeaderForCollapsed,
+#UnitMapContainer .UnitStandardAssessmentContainer .HeaderForExpanded,
+#UnitMapContainer .Atlas_Develop_StandardsAlignment_View_Objectives a.ShowDetails,
+.Handle.HideOnPrint,
+#UnitEditBarView h1:hover #UnitSelectorArrow,
+#UnitEditBarView .Popover.Active #UnitSelectorArrow,
+.EditUnit #UnitSelectorArrow {
+	display: none;
+}
+#UnitMapContainer .adminDisplayTableActionCell,
+#UnitMapContainer .draggableCell,
+#UnitMapContainer .deleteStandard,
+.AttachmentsDelegate .PopoverTrigger {
+	visibility: hidden;
+}
+/* bug #18400 make sure assessment details are hidden when printing */
+.UnitStandardAssessmentContainer .AssessmentStandardsSummaryContainer {
+	display: none;
+}
+.UnitStandardAssessmentContainer .AssessmentNoStandardsAssessedMessage {
+	display: none;
+}
+/* remove text-decoration from planner anchors */
+.CategoryLabel a,
+.AttachmentLink a,
+#MapTeachersDisplay a,
+#LinkToCalendar {
+	text-decoration: none;
+}
+/* Make the teachers display more print-y */
+#MapTeachersDisplay {
+	margin: 0 8px 8px;
+}
+/* AT-4274: we need to override these rules for viewonlytemplates */
+.EditUnit.ViewOnlyTemplate .Popover,
+.EditUnit.ViewOnlyTemplate .AddNewUnitStateStandard,
+.EditUnit.ViewOnlyTemplate .EditWidgetBtn,
+.EditUnit.ViewOnlyTemplate .AtlasButton, 
+.EditUnit.ViewOnlyTemplate .DeleteStateStandardButton, 
+.EditUnit.ViewOnlyTemplate .StandardsNoResultsContent {
+	display: none;
+}
+/* AT-4282 collapse padding of SSL and make it look like a list-item */
+#UnitMapContainer .StateStandardRow .FlagCss {
+	display: list-item;
+}
+#UnitMapContainer .StateStandardRow > td {
+	padding: 0;
+}
+/* avoid overflowing table content on print */
+#Atlas_Develop_UnitMap_View_Default #UnitMapContainer {
+	margin: 0;
+}
+/* Unit Calendar  */
+#units tr.UnitRow td {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+#Atlas_Develop_View_UnitCalendar .unitbar {
+	display: none;
+}
+#UnitCalendarContainer {
+	position: relative;
+}
+.PrintMarkerDiv {
+	position: absolute;
+	width: 1px;
+	z-index: 2000;
+}
+#units tr td.printmarker,
+#units tr td.printmarker img {
+	height: 100%;
+}
+.BGImageContainer {
+	position: relative;
+}
+.LockedArrowIcon, .LargeLockedArrowIcon {
+	color: #000000;
+	text-shadow: none;
+	border: 1px solid #000000;
+}
+/** Curriculum Map */
+.ShowDetails.Action_CollapseExpand {
+	display: none;
+}
+#Atlas_Browse_View_Map {
+	margin-top: -20px;
+}
+#Atlas_Browse_View_Map .displayTable > thead > tr > th {
+	width: initial;
+}
+.resizable.AdjustedWidthTable {
+	table-layout: fixed;
+	word-wrap: normal;
+}
+
+#Atlas_Browse_View_Map .WrapTable {
+    margin-left: 15px;
+}
+
+span.PrintOnlyContent.Right {
+    /* 15px + 6px from the subHeaderContainer's margin-left SASS!*/
+    margin-right: 21px;
+}
+
+@page {
+    margin: 0;
+}
+
+
+body, html {
+    background-color: #FFFFFF;
+    color: #333333;
+}
+td{
+    color: #333333;
+}
+a, .link {
+    color: #00447c;
+}
+#reportHeaderContent,
+.ReportDisplayTable,
+.displayTable {
+    width: 100%;
+}
+#reportHeaderContent th {
+    text-align: left;
+}
+#reportBack, #reportClose {
+    width: 100px;
+}
+#reportDisplayTable,
+.ReportDisplayTable,
+.displayTable {
+    vertical-align: top;
+}
+.displayTable td,
+.displayTable th,
+.displayTableCell,
+.ReportDisplayTable td{
+    padding: 10px;
+}
+.displayTableHeader {
+    text-align: left;
+    border-bottom: 1px solid #C2C2C2;
+}
+.displayTable,
+.displayTable th,
+.displayTable td,
+#reportDisplayTable,
+#reportDisplayTable td,
+#reportDisplayTable th,
+.ReportDisplayTable,
+.ReportDisplayTable td,
+.ReportDisplayTable th {
+    border: 1px solid #C2C2C2;
+    vertical-align: top;
+    text-align: left;
+    border-collapse: collapse;
+}
+#reportDisplayTable .displayTable {
+    border-width: 0;
+}
+#ReportTitle {
+    font-size: 14pt;
+}
+#ReportSubTitle {
+    font-size: 125%;
+}
+#ReportDate {
+    color: #C2C2C2;
+    font-size: 10pt;
+}
+.StandardsDisplay th {
+    text-align: left;
+    font-weight: normal;
+}
+#copyright {
+    font-size: 80%;
+    float: right;
+    text-align: right;
+    margin: 10px 0;
+    padding: 10px 0;
+    border-top: 1px solid #C2C2C2;
+}
+.oddRow {
+    background-color: #F9F9F8;
+}
+/* Search Reports */
+.UnitTable {
+    border: none !important;
+}
+.UnitTable td,
+.UnitTable tr {
+    border: none !important;
+}
+.searchresultitem .class {
+    border-top: 1px solid #C2C2C2;
+    padding: 10px 5px 5px;
+}
+.searchresultitem .Attachments {
+    margin-top: 5px;
+    margin-left: 45px;
+}
+
+.Attachments a img.LinkWithIcon {
+    display: block;
+}
+.fHI i {
+    font-weight: normal !important;
+    font-style: italic;
+    color: #0066CC;
+    display: inline-block;
+    margin-right: 10px;
+}
+/* Formatting Standards Displays */
+.StandardsDisplay {
+    width: 100%;
+}
+.StandardsDisplay th,
+.StandardsDisplay td,
+#Atlas_View_Standards .StandardsDisplay > div,
+#EditForm .StandardsDisplay td {
+    padding: 5px 0;
+    vertical-align: top;
+}
+.StandardsDisplay div.ContentAreaContainer div,
+.StandardsDisplay div.BenchmarkLevelContainer div,
+.StandardsDisplay div.ContentSubAreaContainer div {
+    margin: 3px 0;
+    color: #333333;
+    text-align: left;
+}
+.StandardsDisplay div.StateStandardContainer div {
+    margin: 10px 0;
+}
+.StandardsDisplay div.ContentAreaContainer div.ContentArea{
+    font-size: 12pt;
+    font-weight: bold;
+}
+.StandardsDisplay div.BenchmarkLevelContainer div.BenchmarkLevel{
+    margin-left: 5px;
+    font-size: 10pt;
+    font-weight: bold;
+    border-bottom: 1px solid #333333;
+}
+.StandardsDisplay div.ContentSubAreaContainer div.ContentSubArea {
+    margin-left: 10px;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.StandardsDisplay div.StateStandardLevelContainer div.StateStandardLevel {
+    margin-left: 15px;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.StandardsDisplay div.StateStandardContainer div.StateStandard {
+    margin-left: 20px;
+    font-size: 10pt;
+}
+span.LargeLockedArrowIcon,
+.LockedArrowIcon,
+#UnitMapContainer .StateStandardRow .HeaderForExpanded .FlagCss,
+.StandardsDisplay .ShowDetails {
+    display: none;
+}
+.StandardsDisplay .AssessmentProficiencyLevels {
+    margin-left: 5px;
+    font-style: italic;
+}
+.StandardsNoResultsContent {
+    padding: 15px 30px;
+}
+.StandardsAggregateCounts,
+.StandardsDescription {
+    margin: 3px 0;
+    color: #666666;
+    font-size: 93%;
+}
+.StandardsAggregateCounts a,
+.StandardsDescription a {
+    font-weight: normal;
+}
+/* Browse Course Descriptions Report */
+.BorderedDiv {
+    border: 1px solid #C2C2C2;
+    border-radius: 5px;
+    padding: 10px 5px;
+    background-color: #F9F9F8;
+}
+.SectionDivider {
+    border-bottom: 1px solid #C2C2C2;
+    padding: 0 0 10px;
+}
+#ItemLastUpdated {
+    font-size: 10pt;
+}
+/* Unit Planner */
+#UnitAttributes {
+    display: inline-block;
+    border-bottom: 10px solid #8c8c8c;
+    font-size: 10pt;
+    margin: 0 10px;
+    padding: 5px 0;
+}
+#UnitAttributes .AttributionWrapper {
+
+}
+.CategoryName .CategoryLabel {
+    padding: 10px 0;
+    color: #005daa;
+    font-size: 120%;
+}
+.CourseAssessmentOpportunityListTable {
+    border: none;
+}
+.PreviousNextYearLinks {
+    display: none;
+    font-size: 200%;
+}
+#UnitMapContainer .main {
+    border: 1px solid #C2C2C2;
+}
+.CustomUnitTemplateCell {
+    border-bottom: 1px solid #C2C2C2;
+}
+#UnitMapContainer .main div.curriculum {
+    margin: 0 8px;
+}
+.SubtitlesForMap,
+#MapTeachersDisplay {
+    padding: 5px 15px 10px;
+    font-size: 10pt;
+}
+div.toggleeditor {
+    padding: 0 20px;
+    margin: 0 20px;
+}
+.UnitMap .TextCell,
+.editmaptitle .UnitSectionContainer {
+     margin: 0 auto;
+     padding: 8px;
+     font-size: 12pt;
+     font-family: 'roboto_slablight',"Times New Roman","Bitstream Charter",serif;
+     font-weight: bold;
+    text-align: center;
+ }
+
+.UnitSectionContainer p {
+    margin-bottom: 0;
+}
+/* curriculum map view, unit map view  */
+#UnitMapContainer table,
+th.displayTableHeader,
+div.curriculum,
+div.WidgetDisplay,
+div.WidgetDisplay td,
+div.curriculum span,
+#UnitMapContainer .main .CategoryName {
+    font-size: 10pt !important;
+}
+.curriculum p {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+.UnitStandardAssessmentContainer p,
+.SchoolValueOpportunityDescription p{
+    margin: 0in;
+}
+.SchoolValueOpportunity,
+.UnitStandardAssessmentHeader {
+    font-weight: bold;
+}
+#Atlas_Browse_View_Map .UnitName {
+    font-weight: bold;
+    color: #00447c;
+}
+#Atlas_Browse_View_Map .UnitDuration {
+    font-style: italic;
+}
+.curriculum .UnitStandardAssessmentHeader {
+    font-weight: bold;
+}
+</style>
+		</head>
+		<body>
+		 <div class="Section1">
+		  <div id="MainWrapper"><div id="reportHeader"><table id="reportHeaderContent"><tbody><tr><td id="reportBack"><a class="BackLinkFlagged" href="#" id="reportBackLink"><img alt="" class="IMAGE_ATLAS_LOGO_DARK" height="70" src="https://moboces.rubiconatlas.org/common_images/AtlasLogoDark.png" width="79" /></a></td><td id="reportHeaderContainer"><div id="reportTitle">Computer Programming I<span id="MapTypeMarker_3"> (MO)</span> <div class="PrintOnlyContent"><span class="SubtitlesForMap"><span class="AttributionWrapper"><span class="AttributeTag">Madison-Oneida BOCES</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">2016-2017</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">High School</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Information Technology</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Computer Programming I<span id="MapTypeMarker_3"> (MO)</span></span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag"><span>Ciaralli, Cindy; Cooper, Roy; Goldson, Lisa; Marris, Joshua; Pitman, Nancy; Regner, Chris</span></span></span></span></div></div><div class="HideOnPrint" id="ReportSubTitle"><span class="HideOnPrint"><span class="SubtitlesForMap"><span class="AttributionWrapper"><span class="AttributeTag">Madison-Oneida BOCES</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">2016-2017</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">High School</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Information Technology</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Computer Programming I<span id="MapTypeMarker_3"> (MO)</span></span></span></span></span></div><div id="ReportDate">Wednesday, July 27, 2016, 11:46PM</div></td><td id="reportClose"><a class="BackLinkFlagged" href="#" id="reportCloseLink"><img alt="" src="https://moboces.rubiconatlas.org/images/school_logo_small.png" /></a></td></tr></tbody></table></div><div class="HideOnPrint" id="UINotificationContainer"><div id="UINotification" style="display: none;"></div></div><div class="View" id="Atlas_Browse_View_Map"><span id="ActivitySummaryDelegate_1000"></span><span id="ShowComments"></span><div id="UI_ScreenshotDelegate_1000"></div><div class="View" id="Atlas_Browse_View_MapNavTabs"></div><div id="DisplayTableDelegate"><div class="ClearFix"><div class="WrapTable"><table class="displayTable ReportDisplayTable" id="AtlasReportDisplayTable_1"><thead><tr><th class="displayTableHeader">Unit</th><th class="displayTableHeader"><div>INDUSTRY-BASED OBJECTIVES</div></th><th class="displayTableHeader"><div>SAMPLE LEARNING EXPERIENCES </div></th><th class="displayTableHeader"><div>ASSESSMENT IDEAS</div></th><th class="displayTableHeader"><div>Credit Analysis</div></th><th class="displayTableHeader"><div>Academic Standards Crosswalk</div></th></tr></thead><tbody><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Hardware and Operating System</div></p><div class="UnitDuration">(Week 1, 3 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>1. Hardware and Functions</div><div>Students will . . .</div><div>a. Identify and properly turn on and shut down the Macintosh workstation.</div><div>b. Identify and operate the keyboard and mouse.</div><div>c. Define and state the purpose of RAM and ROM.</div><div>d. Identify and state the purpose of storage memory.</div><div>e. List the three main types of storage devices, file server, hard disk and CD ROM</div><div>Vocabulary: Central Processing Unit, computer, hard disk, monitor, mouse, keyboard, click, drag, Random Access Memory, Read Only Memory, file server, internal hard disk, mega bytes, giga bytes.</div><div> </div><div>2. Macintosh Operating System X</div><div>Students will . . .</div><div>a. Identify and state the use of the desktop, menu bar, trash, desk icons, dock, and home.</div><div>b. Identify open and operate desktop windows.</div><div>c. Identify and state the purpose of the main window icons, folder, document and application.</div><div>d. Create, name, and relocate folders.</div><div>Vocabulary: desktop, icon, menu, select, multiple select, open, close, zoom, resize, scroll, scroll box, scroll bar, scroll arrow, title bar, active, inactive, folder, document, application.</div><div> </div><div>3. Home</div><div>Students will . . .</div><div>a. Identify and state the use of the System</div><div>Preferences and Apple menu.</div><div>b. Identify and operate the printer utility.</div><div>c. Be introduced to other OSX items.</div><div>Vocabulary: Apple menu, Print Utility, System Preferences.</div><div> </div><div>4. Opening an Application</div><div>Students will . . .</div><div>a. Create a new document and become familiar with a graphics program document window using the Adobe Illustrator application as a vehicle.</div><div>b. Compare and contrast terminology between traditional layout and electronic layout.</div><div>c. Save and relocate a document from within an application.</div><div>d. Compare and contrast the import and export commands.</div><div>Vocabulary: Save, Save as, document setup vs. page setup, floating palettes, rulers and ruler guides, zero set, paste board, and fill.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>1. Students will participate in a group lecture and class discussion on the basic concepts uses of the computer for graphic design.</div><div>2. Students will identify the components of the computer workstation and other peripheral devices within the Graphic Design lab.</div><div> </div><div>1. Students will participate in a guided practice and identify the basic setup of the Graphic Design computer workstation.</div><div>2. Students will participate in guided practice and navigate around the computer desktop and identify the menus and common commands.</div><div>3. Students will participate in a group lecture and discussion on Mac OSX and how the hardware, operating system, and software collectively control the computer environment.</div><div> </div><div>1.Students will be able to access operating system featured from the Apple menu and navigate through the classroom network to share files, locate and change printers and a variety of other standard functions.</div><div> </div><div>1.Students will participate in a group guided practice focused on locating and opening applications, leading to the creation of a document and saving the document into the proper folder on the computer work station.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>Students will be assessed on their ability to routinely operate the computer to solve graphic design problems.</div><div> </div><div>Students will be evaluated on the accuracy of the shape transformation activity through the use of a rubric requiring a self-assessment and written assessment.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="FrontLoadedStandardAssessments"><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_3">ELA Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Listen to lecture/take notes</div><div>- Conduct research on the importance of file storage and types/report out to the class</div><div>- Locate an article about a file storage mishap/write a summary of how it could have been avoided</div><div>- Participate in formal class discussion</div><div>- Write a reflective summary of what was learned</div><div>- Interact in small groups</div><div>- Complete article review on current events topic</div><div> </div><div>ASSL 1, 2, 4, 5, 6</div><div>ASL 1, 3, 6,</div><div>ASW 4, 6, 7, 5</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_5">CFM/CDOS Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>Introduction to professional field of study. Sampling of equipment and software associated with visual design work CDOS 2, 3</div></div></div></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="View" id="Atlas_View_Standards"><table class="StandardsDisplay"><tbody><tr class="ContentAreaRow" id="ContentArea_1000013470"><th colspan="1"><div class="ContentArea">MO: English/Language Arts</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079370"><th colspan="1"><div class="ContentSubArea">Writing</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492566"><td colspan="1"><div id="StateStandardLevel_1001492566"><div>Production and Distribution of Writing</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180936"><td><div id="StateStandard_1004180936"><div><span class="FlagCss">ASW4. Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180940"><td><div id="StateStandard_1004180940"><div><span class="FlagCss">ASW6. Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079372"><th colspan="1"><div class="ContentSubArea">Speaking and Listening</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492572"><td colspan="1"><div id="StateStandardLevel_1001492572"><div>Comprehension and Collaboration</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180950"><td><div id="StateStandard_1004180950"><div><span class="FlagCss">ASSL1. Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others’ ideas and expressing their own clearly and persuasively.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180952"><td><div id="StateStandard_1004180952"><div><span class="FlagCss">ASSL2. Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180954"><td><div id="StateStandard_1004180954"><div><span class="FlagCss">ASSL3. Evaluate a speaker’s point of view, reasoning, and use of evidence and rhetoric.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492574"><td colspan="1"><div id="StateStandardLevel_1001492574"><div>Presentation of Knowledge and Ideas</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180956"><td><div id="StateStandard_1004180956"><div><span class="FlagCss">ASSL4. Present information, findings, and supporting evidence such that listeners can follow the line of reasoning and the organization, development, and style are appropriate to task, purpose, and audience.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180958"><td><div id="StateStandard_1004180958"><div><span class="FlagCss">ASSL5. Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180960"><td><div id="StateStandard_1004180960"><div><span class="FlagCss">ASSL6. Adapt speech to a variety of contexts and communicative tasks, demonstrating command of formal English when indicated or appropriate.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079374"><th colspan="1"><div class="ContentSubArea">Language</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492576"><td colspan="1"><div id="StateStandardLevel_1001492576"><div>Conventions of Standard English</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180962"><td><div id="StateStandard_1004180962"><div><span class="FlagCss">ASL1. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492578"><td colspan="1"><div id="StateStandardLevel_1001492578"><div>Knowledge of Language</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180966"><td><div id="StateStandard_1004180966"><div><span class="FlagCss">ASL3. Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492580"><td colspan="1"><div id="StateStandardLevel_1001492580"><div>Vocabulary Acquisition and Use</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180972"><td><div id="StateStandard_1004180972"><div><span class="FlagCss">ASL6. Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013478"><th colspan="1"><div class="ContentArea">MO: Career Development and Occupational Studies</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079402"><th colspan="1"><div class="ContentSubArea">CDOS</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492704"><td colspan="1"><div id="StateStandardLevel_1001492704"><div>Standard 2: Integrated Learning</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181312"><td><div id="StateStandard_1004181312"><div><span class="FlagCss">Students will demonstrate how academic knowledge and skills are applied in the workplace and other settings.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492706"><td colspan="1"><div id="StateStandardLevel_1001492706"><div>Standard 3a: Universal Foundation Skills</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_2000000002"><td><div id="StateStandard_2000000002"><div class="UI_DivCollapsible Collapsed" id="divOuter_SS_2000000002_1_1421462376"><div class="UI_Div_Collapsible_Headers"><div class="HeaderForCollapsed" id="divOuter_SS_2000000002_1_1421462376_hfc"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_DOWN_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-down-darker-small.png?v=Atlas8.1.0.98" width="18" />Show details</a></div><div class="HeaderForExpanded" id="divOuter_SS_2000000002_1_1421462376_hfe" style="display: none"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_UP_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-up-darker-small.png?v=Atlas8.1.0.98" width="18" />Hide details</a></div></div><div class="InnerDiv" id="divInnerdivOuter_SS_2000000002_1_1421462376" style="display: none"><div class="StandardsDescription">1.	Basic Skills<br />
+2.	Thinking Skills<br />
+3.	Personal Qualities<br />
+4.	Interpersonal Skills<br />
+5.	Technology<br />
+6.	Managing Information<br />
+7.	Managing Resources<br />
+8.	Systems</div></div></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079404"><th colspan="1"><div class="ContentSubArea">Career Majors</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492718"><td colspan="1"><div id="StateStandardLevel_1001492718"><div>6. Arts & Humanities</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181370"><td><div id="StateStandard_1004181370"><div><span class="FlagCss">Graphic Design</span></div></div></td></tr></tbody></table><div class="CopyrightClause"></div></div></div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Arduino and Processing</div></p><div class="UnitDuration">(Week 4, 5 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Write code for Arduino and Processing that allows the hardware device to communicate with a program running on the host computer.</p><p>Use sensors to allow input into the computer program.</p><p>Use lights and sound to allow output from the computer program.</p><p>Discuss how sensors can be used to allow a computer program to gain information about the environment.</p><p>Describe the way in which that information can be used within a computer program.</p><p>Discuss how motor, sound and light components can be used to interact with the environment.</p><p>&nbsp;</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Watch the videos on Arduino and Processing on Safari Books Online</p><div class="Attachments"><a class="HideOnPublicSite" href="https://schools.safaribooksonline.com/library/view/processing-and-arduino/9781449399832/" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">https://schools.safaribooksonline.com/library/view/processing-and-arduino/9781449399832/</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Rubric for creating a new type of hardware/software interaction with Processing and Arduino.</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">HTML and CSS</div></p><div class="UnitDuration">(Week 9, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Name two or more web browsers</p><p>Name a program used to write HTML code</p><p>List element tags used in making textual content within web pages</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Presentation on HTML</p><p>Discussion of element tags</p><p>&nbsp;</p><div class="Attachments"><a href="https://schools.safaribooksonline.com/library/view/Head-First-HTML-with-CSS-%2526-XHTML/059610197X/cover.html" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Head First HTML with CSS & XHTML</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>• Pre-lecture quiz to evaluate prior</div><div>knowledge</div><div>• Post-lecture assess learned knowledge</div><div>• Rubric to evaluate the program project</div><div>• HTML Programming require 100%</div><div>minimum to continue to the next chapter.</div><div>• Rubric for participation in lab assignments,</div><div>computer ethics, Internet and computer</div><div>safety, cleanup lab area</div><div>• Peer-to-peer collaboration</div><div>• Chapter test</div><div>• HTML terminology test</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="FrontLoadedStandardAssessments"><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_3">ELA Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Learn extensive vocabulary related to topic being taught</div><div>- Read text, extensively, listen to lecture, Q &amp; A, take notes and apply information</div><div>- Conduct informal and formal research as to the difference between programming and scripting languages, report to class and apply</div><div>- Read and follow extensive/intricate directions</div><div>ASR1, 7, 10</div><div>ASW 2, 4, 6</div><div>ASSL 2, 4, 5, 6</div><div>ASL 1, 2, 3, 4, 6</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_1">Math Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Hypertext</div><div>- The HyperText Markup Language</div><div>- What is an HTML Document?</div><div>- HTML Document Structure</div><div>- HTML Document Characteristics</div><div>A-SSE</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_2">Science Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Coding for color (links with science color PBL activity, Unit 5)</div><div>MST 2.1</div><div>MST 6.6</div><div>MST 7.1</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_5">CFM/CDOS Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Develop technical skills applicable to a work setting. Gain experience working with different software programs popular in offices and businesses. Create items related to work assignments found on the job</div><div>-</div><div>CDOS 2, 3</div></div></div></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="View" id="Atlas_View_Standards"><table class="StandardsDisplay"><tbody><tr class="ContentAreaRow" id="ContentArea_1000013470"><th colspan="1"><div class="ContentArea">MO: English/Language Arts</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079368"><th colspan="1"><div class="ContentSubArea">Reading</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492556"><td colspan="1"><div id="StateStandardLevel_1001492556"><div>Key Ideas and Details</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180910"><td><div id="StateStandard_1004180910"><div><span class="FlagCss">ASR1. Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492560"><td colspan="1"><div id="StateStandardLevel_1001492560"><div>Integration of Knowledge and Ideas</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180922"><td><div id="StateStandard_1004180922"><div><span class="FlagCss">ASR7. Integrate and evaluate content presented in diverse formats and media, including visually and quantitatively, as well as in words.1</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492562"><td colspan="1"><div id="StateStandardLevel_1001492562"><div>Range of Reading and Level of Text Complexity</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180928"><td><div id="StateStandard_1004180928"><div><span class="FlagCss">ASR10. Read and comprehend complex literary and informational texts independently and proficiently.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079370"><th colspan="1"><div class="ContentSubArea">Writing</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492564"><td colspan="1"><div id="StateStandardLevel_1001492564"><div>Text Types and Purposes1</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180932"><td><div id="StateStandard_1004180932"><div><span class="FlagCss">ASW2. Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492566"><td colspan="1"><div id="StateStandardLevel_1001492566"><div>Production and Distribution of Writing</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180936"><td><div id="StateStandard_1004180936"><div><span class="FlagCss">ASW4. Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180938"><td><div id="StateStandard_1004180938"><div><span class="FlagCss">ASW5. Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180940"><td><div id="StateStandard_1004180940"><div><span class="FlagCss">ASW6. Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079374"><th colspan="1"><div class="ContentSubArea">Language</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492576"><td colspan="1"><div id="StateStandardLevel_1001492576"><div>Conventions of Standard English</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180962"><td><div id="StateStandard_1004180962"><div><span class="FlagCss">ASL1. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180964"><td><div id="StateStandard_1004180964"><div><span class="FlagCss">ASL2. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492578"><td colspan="1"><div id="StateStandardLevel_1001492578"><div>Knowledge of Language</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180966"><td><div id="StateStandard_1004180966"><div><span class="FlagCss">ASL3. Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492580"><td colspan="1"><div id="StateStandardLevel_1001492580"><div>Vocabulary Acquisition and Use</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180968"><td><div id="StateStandard_1004180968"><div><span class="FlagCss">ASL4. Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180972"><td><div id="StateStandard_1004180972"><div><span class="FlagCss">ASL6. Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013472"><th colspan="1"><div class="ContentArea">MO: Mathematics</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079378"><th colspan="1"><div class="ContentSubArea">Algebra</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492590"><td colspan="1"><div id="StateStandardLevel_1001492590"><div>A-SSE Seeing Structure in Expressions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181020"><td><div id="StateStandard_1004181020"><div><span class="FlagCss">Interpret the structure of expressions.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181022"><td><div id="StateStandard_1004181022"><div><span class="FlagCss">Write expressions in equivalent forms to solve problems.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013474"><th colspan="1"><div class="ContentArea">MO: Science</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079390"><th colspan="1"><div class="ContentSubArea">Standard 2: Information Systems</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492668"><td colspan="1"><div id="StateStandardLevel_1001492668"><div>Information Systems</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181234"><td><div id="StateStandard_1004181234"><div><span class="FlagCss">MST 2.1 Information technology is used to retrieve, process, and communicate information and as a tool to enhance learning.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079394"><th colspan="1"><div class="ContentSubArea">Standard 6: Interconnectedness: Common Themes</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492684"><td colspan="1"><div id="StateStandardLevel_1001492684"><div>Optimization</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181274"><td><div id="StateStandard_1004181274"><div><span class="FlagCss">MST 6.6 In order to arrive at the best solution that meets criteria within constraints, it is often necessary to make trade-offs.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079396"><th colspan="1"><div class="ContentSubArea">Standard 7: Interdisciplinary Problem Solving</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492686"><td colspan="1"><div id="StateStandardLevel_1001492686"><div>Connections</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181276"><td><div id="StateStandard_1004181276"><div><span class="FlagCss">MST 7.1 The knowledge and skills of mathematics, science, and technology are used together to make informed decisions and solve problems, especially those relating to issues of science/technology/science, consumer decision making, design, and inquiry into phenomena.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013478"><th colspan="1"><div class="ContentArea">MO: Career Development and Occupational Studies</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079402"><th colspan="1"><div class="ContentSubArea">CDOS</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492704"><td colspan="1"><div id="StateStandardLevel_1001492704"><div>Standard 2: Integrated Learning</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181312"><td><div id="StateStandard_1004181312"><div><span class="FlagCss">Students will demonstrate how academic knowledge and skills are applied in the workplace and other settings.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492706"><td colspan="1"><div id="StateStandardLevel_1001492706"><div>Standard 3a: Universal Foundation Skills</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_2000000002"><td><div id="StateStandard_2000000002"><div class="UI_DivCollapsible Collapsed" id="divOuter_SS_2000000002_1_1421462079"><div class="UI_Div_Collapsible_Headers"><div class="HeaderForCollapsed" id="divOuter_SS_2000000002_1_1421462079_hfc"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_DOWN_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-down-darker-small.png?v=Atlas8.1.0.98" width="18" />Show details</a></div><div class="HeaderForExpanded" id="divOuter_SS_2000000002_1_1421462079_hfe" style="display: none"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_UP_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-up-darker-small.png?v=Atlas8.1.0.98" width="18" />Hide details</a></div></div><div class="InnerDiv" id="divInnerdivOuter_SS_2000000002_1_1421462079" style="display: none"><div class="StandardsDescription">1.	Basic Skills<br />
+2.	Thinking Skills<br />
+3.	Personal Qualities<br />
+4.	Interpersonal Skills<br />
+5.	Technology<br />
+6.	Managing Information<br />
+7.	Managing Resources<br />
+8.	Systems</div></div></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079404"><th colspan="1"><div class="ContentSubArea">Career Majors</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492708"><td colspan="1"><div id="StateStandardLevel_1001492708"><div>1. Business/Information Systems</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181330"><td><div id="StateStandard_1004181330"><div><span class="FlagCss">Business and Computer Science</span></div></div></td></tr></tbody></table><div class="CopyrightClause"></div></div></div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Career Research</div></p><div class="UnitDuration">(Week 5, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Identify the personal issues to consider when choosing  and planning a career.</p><p>Analyze skills and abilities required in a career option and relate them to their own skills and abilities.</p><p>Understand basic skills expected from employers</p><p>Explore various career paths without limiting their choices</p><p>Able to connect their present learning to future goals</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Using technology, students will conduct personal assessments to begin identifying strengths, values and interests.  Sites such as Career Cruising, ONETonline, NYCareerZone and others will assist students with matching their responses to potential career fields linked to their interests.</p><p>&nbsp;</p><p>Students will research different career clusters and occupational titles. They will create a career report reflecting a chosen occupation. Research areas will include required skills, education, job description, salary ranges, as well as potential employers.</p><div class="Attachments"><a class="HideOnPublicSite BackLinkFlagged" href="https://moboces.rubiconatlas.org/Atlas/View/File?FileID=1B6E7F96-E1AB-46C6-9AAD-92D0CF848AC2&amp;"><img alt="" class="ICON IMAGE_ATTACH LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/link.png" width="18" /><span class="LinkName">Career Cruising occ rpt instructions.docx</span></a><br />
+<a class="HideOnPublicSite BackLinkFlagged" href="https://moboces.rubiconatlas.org/Atlas/View/File?FileID=C484749E-D6DB-4408-A55E-6FA2030B5A40&amp;"><img alt="" class="ICON IMAGE_ATTACH LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/link.png" width="18" /><span class="LinkName">Career Cruising Report.doc</span></a><br />
+<a class="HideOnPublicSite BackLinkFlagged" href="https://moboces.rubiconatlas.org/Atlas/View/File?FileID=A54DA079-40ED-48A9-8B1A-E8F7407EAB86&amp;"><img alt="" class="ICON IMAGE_ATTACH LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/link.png" width="18" /><span class="LinkName">ONET Report Format.docx</span></a><br />
+<a class="HideOnPublicSite BackLinkFlagged" href="https://moboces.rubiconatlas.org/Atlas/View/File?FileID=6476A66A-6697-47AA-8ADB-075920D25A51&amp;"><img alt="" class="ICON IMAGE_ATTACH LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/link.png" width="18" /><span class="LinkName">My Next Move.docx</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Completed reports are evaluated for accuracy and details.</p><p>All reports will be typed and follow an outline format.</p><p>Final grade is based on a published ready document for the senior portfolio.</p><div class="Attachments"><a class="HideOnPublicSite BackLinkFlagged" href="https://moboces.rubiconatlas.org/Atlas/View/File?FileID=9A6486DB-41DA-4293-944B-09ECDC3B810D&amp;"><img alt="" class="ICON IMAGE_ATTACH LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/link.png" width="18" /><span class="LinkName">Career and Work Exploration- Task 4 Rubric.doc</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="View" id="Atlas_View_Standards"><div class="StandardsDisplay"><div class="ContentAreaContainer"><div class="ContentArea">MO: English/Language Arts</div></div><div class="BenchmarkLevelContainer"><div class="BenchmarkLevel">MO: High School</div></div><div class="ContentSubAreaContainer"><div class="ContentSubArea">Writing</div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492564"><div>Text Types and Purposes1</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004180932"><div><span class="FlagCss">ASW2. Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.</span></div></div></div><div class="ContentSubAreaContainer"><div class="ContentSubArea">Speaking and Listening</div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492572"><div>Comprehension and Collaboration</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004180950"><div><span class="FlagCss">ASSL1. Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others’ ideas and expressing their own clearly and persuasively.</span></div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004180952"><div><span class="FlagCss">ASSL2. Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.</span></div></div></div><div class="ContentSubAreaContainer"><div class="ContentSubArea">Language</div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492578"><div>Knowledge of Language</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004180966"><div><span class="FlagCss">ASL3. Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.</span></div></div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492580"><div>Vocabulary Acquisition and Use</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004180972"><div><span class="FlagCss">ASL6. Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.</span></div></div></div><div class="ContentAreaContainer"><div class="ContentArea">MO: Career Development and Occupational Studies</div></div><div class="BenchmarkLevelContainer"><div class="BenchmarkLevel">MO: High School</div></div><div class="ContentSubAreaContainer"><div class="ContentSubArea">CDOS</div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492702"><div>Standard 1: Career Development</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004181310"><div><span class="FlagCss">Students will be knowledgeable about the world of work, explore career options and relate personal skills, aptitudes and abilities to future career decisions.</span></div></div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492704"><div>Standard 2: Integrated Learning</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004181312"><div><span class="FlagCss">Students will demonstrate how academic knowledge and skills are applied in the workplace and other settings.</span></div></div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492706"><div>Standard 3a: Universal Foundation Skills</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_2000000002"><div class="UI_DivCollapsible Collapsed" id="divOuter_SS_2000000002_2_1468864413"><div class="UI_Div_Collapsible_Headers"><div class="HeaderForCollapsed" id="divOuter_SS_2000000002_2_1468864413_hfc"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand HideOnPrint" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_DOWN_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-down-darker-small.png?v=Atlas8.1.1.274" width="18" />Show details</a></div><div class="HeaderForExpanded" id="divOuter_SS_2000000002_2_1468864413_hfe" style="display: none"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand HideOnPrint" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_UP_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-up-darker-small.png?v=Atlas8.1.1.274" width="18" />Hide details</a></div></div><div class="InnerDiv" id="divInnerdivOuter_SS_2000000002_2_1468864413" style="display: none"><div class="StandardsDescription">1.	Basic Skills<br />
+2.	Thinking Skills<br />
+3.	Personal Qualities<br />
+4.	Interpersonal Skills<br />
+5.	Technology<br />
+6.	Managing Information<br />
+7.	Managing Resources<br />
+8.	Systems</div></div></div></div></div><div class="ContentSubAreaContainer"><div class="ContentSubArea">Career Majors</div></div><div class="StateStandardLevelContainer"><div class="StateStandardLevel" id="StateStandardLevel_1001492708"><div>1. Business/Information Systems</div></div></div><div class="StateStandardContainer"><div class="StateStandard" id="StateStandard_1004181330"><div><span class="FlagCss">Business and Computer Science</span></div></div></div></div><div class="CopyrightClause"></div></div></div><br />
+</div></td></tr><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Civic Responsibilities</div></p><div class="UnitDuration">(Week 10, 4 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>Lesson 1: Understanding the “Office of Citizen”</div><div> </div><div>• Students will understand the legal obligations of citizenship.</div><div>• Students will understand how to register to vote.</div><div>• Students will identify the various political parties represented in a democracy.</div><div>• Students will discuss the issue of universal voting methods.</div><div>• Students will understand how to register for Selective Service.</div><div>• Students will understand what is expected when responding to a jury duty request.</div><div>• Students will assess the need for the jury system in a democratic society.</div><div>• Students will evaluate the role of the media in educating the citizenry.</div><div>• Students will appreciate the importance of consensus building when creating solutions to public issues.</div><div>• Students will develop an appreciation for the need of citizens to participate in a democracy.</div><div> </div><div> </div><div>Lesson 2: Active Participation</div><div> </div><div>• Students will participate in a civic/volunteer project to benefit an organization of their choice.</div><div>• Students meeting the age requirement will register to vote.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>Lesson 1: Understanding the “Office of Citizen”</div><div> </div><div>Students will watch select episodes from the video series “The American Promise”. The video series explores what it calls “nine challenges that face any democracy...” Following each video segment students will complete a team building/cooperate learning task that represents the challenge presented in the film. The focus of all activities will be for students to understand that a democracy relies on involvement of its citizens.</div><div> </div><div>A representative from the County Board of Elections will come in to speak to the class about how to register to vote.</div><div> </div><div>Students will participate in a jury for a mock trial to be held with the Criminal Justice class. Students will receive an orientation similar to that which they could receive if they were selected for a jury. A representative from a local city court will serve as a guest speaker to discuss the civic importance of jury duty.</div><div> </div><div>Students will consider the public issue posed by the National Issues Forum: News Media and Society: How to Restore the Public Trust. Guided readings will present three nonpartisan solutions to the public issue question. The goal of the experience is for the class to come to consensus on the issue.</div><div> </div><div> </div><div>Lesson 2: Active Participation</div><div> </div><div>Students will complete their volunteer work after researching a needy charity or organization.</div><div> </div><div>Students will complete their voter registration materials.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum">&nbsp;</div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="FrontLoadedStandardAssessments"><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_3">ELA Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Read text, extensively, listen to lecture, Q &amp; A, take notes and apply information</div><div>- Learn extensive vocabulary related to topic being taught</div><div>- Complete volunteer work which includes interacting with people at the organization where work is conducted in a professional/appropriate manner whether on the phone, in person or in writing</div><div>- View/listen to videos and take notes</div><div>- Interact appropriately with a guest speaker including preparing and asking questions related to the presentation on the importance and How To of voter registration</div><div>- Organize and participate in a jury for a mock trial (This will include class discussion as well as informal research regarding the topic of juries and their responsibilities)</div><div>- Large group discussion based on the reading: News Media and Society: How to Restore the Public Trust</div><div>- Complete voter registration materials</div><div>ASR1, 7, 8, 10</div><div>ASW 2, 4, 5, 6, 7, 9</div><div>ASSL 2, 4, 5, 6</div><div>ASL 1, 2, 3, 4, 6</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_4">G&E Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><p>- Refer to curriculum guide.</p></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_5">CFM/CDOS Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Develop understanding of participating in community related responsibilities</div><div>- Obligations of professionalism and adulthood</div><div>- Regulations of community, employer and legal systems</div><div>CDOS 2, 3</div></div></div></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="View" id="Atlas_View_Standards"><table class="StandardsDisplay"><tbody><tr class="ContentAreaRow" id="ContentArea_1000013476"><th colspan="1"><div class="ContentArea">MO: Social Studies</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079400"><th colspan="1"><div class="ContentSubArea">Standard 5: Government</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492694"><td colspan="1"><div id="StateStandardLevel_1001492694"><div>General Government</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181290"><td><div id="StateStandard_1004181290"><div><span class="FlagCss">SS 5.1.a Learning about political systems</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181292"><td><div id="StateStandard_1004181292"><div><span class="FlagCss">SS 5.1.b Learning the purposes of government and civic life</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181294"><td><div id="StateStandard_1004181294"><div><span class="FlagCss">SS 5.1.c Learning about the differing assumptions held by people across time and place regarding power, authority, governance, and law</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492696"><td colspan="1"><div id="StateStandardLevel_1001492696"><div>State and Federal Governments</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181296"><td><div id="StateStandard_1004181296"><div><span class="FlagCss">SS 5.2.a Understanding the governments’ civic values (justice, honesty, self-discipline, due process, equality, majority rule, minority rights, and respect for self, others, and property), as well as their principles and practices</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492698"><td colspan="1"><div id="StateStandardLevel_1001492698"><div>Understanding Civics and Citizenship</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181300"><td><div id="StateStandard_1004181300"><div><span class="FlagCss">SS 5.3.a Understanding the roles of a citizen in America’s constitutional democracy</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181302"><td><div id="StateStandard_1004181302"><div><span class="FlagCss">SS 5.3.b Understanding the scope of a citizen’s rights and responsibilities</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492700"><td colspan="1"><div id="StateStandardLevel_1001492700"><div>Applying Civics and Citizenship</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181308"><td><div id="StateStandard_1004181308"><div><span class="FlagCss">SS 5.4.c Developing and refining participatory skills</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013478"><th colspan="1"><div class="ContentArea">MO: Career Development and Occupational Studies</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079402"><th colspan="1"><div class="ContentSubArea">CDOS</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492702"><td colspan="1"><div id="StateStandardLevel_1001492702"><div>Standard 1: Career Development</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181310"><td><div id="StateStandard_1004181310"><div><span class="FlagCss">Students will be knowledgeable about the world of work, explore career options and relate personal skills, aptitudes and abilities to future career decisions.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492704"><td colspan="1"><div id="StateStandardLevel_1001492704"><div>Standard 2: Integrated Learning</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181312"><td><div id="StateStandard_1004181312"><div><span class="FlagCss">Students will demonstrate how academic knowledge and skills are applied in the workplace and other settings.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492706"><td colspan="1"><div id="StateStandardLevel_1001492706"><div>Standard 3a: Universal Foundation Skills</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_2000000002"><td><div id="StateStandard_2000000002"><div class="UI_DivCollapsible Collapsed" id="divOuter_SS_2000000002_1_1421462131"><div class="UI_Div_Collapsible_Headers"><div class="HeaderForCollapsed" id="divOuter_SS_2000000002_1_1421462131_hfc"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_DOWN_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-down-darker-small.png?v=Atlas8.1.0.98" width="18" />Show details</a></div><div class="HeaderForExpanded" id="divOuter_SS_2000000002_1_1421462131_hfe" style="display: none"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_UP_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-up-darker-small.png?v=Atlas8.1.0.98" width="18" />Hide details</a></div></div><div class="InnerDiv" id="divInnerdivOuter_SS_2000000002_1_1421462131" style="display: none"><div class="StandardsDescription">1.	Basic Skills<br />
+2.	Thinking Skills<br />
+3.	Personal Qualities<br />
+4.	Interpersonal Skills<br />
+5.	Technology<br />
+6.	Managing Information<br />
+7.	Managing Resources<br />
+8.	Systems</div></div></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079404"><th colspan="1"><div class="ContentSubArea">Career Majors</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492708"><td colspan="1"><div id="StateStandardLevel_1001492708"><div>1. Business/Information Systems</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181330"><td><div id="StateStandard_1004181330"><div><span class="FlagCss">Business and Computer Science</span></div></div></td></tr></tbody></table><div class="CopyrightClause"></div></div></div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Scalable Vector Graphics</div></p><div class="UnitDuration">(Week 17, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Name 5 or more tags used in creating SVG graphics</p><p>Use structured paths to define the motion of an element onscreen.</p><p>Describe the math used to draw an arced line</p><p>Describe the attributes used in the SVG path element</p><p>Describe the math used to draw an arced path</p><p>Use arced paths to draw and animate images</p><p>&nbsp;</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Create a picture using graphics primitives in SVG</p><p>Write SVG code that represents motion and view it in the browser.</p><p>Create lines with multiple straight and curved paths within an SVG image</p><p>Create an image with arced lines and paths</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Students will re-create animations previously made in CSS in order to understand the similar relationships between the two types of code and the shapes and motion onscreen.</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">JavaScript</div></p><div class="UnitDuration">(Week 25, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Describe how functions can be used to place graphics primitives on an HTML5 canvas.</p><p>Use Javascript to create scenes, figures and animations.</p><p>&nbsp;</p><p>Define JavaScript Objects and properties</p><p>Define functions that belong to an Object</p><p>Understand how verbs in a story relate to functions</p><p>Define 'getter' and 'setter' functions for properties of an Object</p><p>Understand how descriptive words (adjectives) relate to properties.</p><p>Use a for loop to animate a scene with multiple elements</p><p>Use a for loop to assign random numbers to an array</p><p>Use an array to store information about position</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Work through interactive tutorials and short lessons to understand the essential concepts of using graphics primitives on an HTML canvas within a web page.</p><p>Relate the characters in a story to JavaScript Objects</p><p>Define the characteristics of characters in a story in terms of Object properties/variables</p><p>Make a list of nouns and verbs in a story excerpt.</p><p>Write a story and define the Objects and methods that describe the characters, places and actions within the story.</p><p>Write a program that draws many elements that move simultaneously but with different speeds and sizes.</p><div class="Attachments"><a href="https://www.khanacademy.org/computing/computer-programming/programming" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Intro to JS: Drawing & Animation</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Animated holiday greeting</p><p>Bouncing ball</p><p>Car animation</p><p>Snow animation</p><p>Line graphs</p><p>&nbsp;</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Game Development</div></p><div class="UnitDuration">(Week 33, 7 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Use vectors to describe displacement, velocity and acceleration</p><p>Calculate vector magnitudes</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Make simulations of motion</p><p>Label vectors</p><p>Create linear and projectile motion animations</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Make simulations of motion</p><p>Label vectors</p><p>Create linear and projectile motion animations</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Review/National Exam/Final Exam Review</div></p><div class="UnitDuration">(Week 39, 1 Week)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>Students will take an accumulative written final exams in:</div><div>• HTML</div><div>• CIW Site Development – Certification exam</div><div>• Computer Math</div><div>   o Binary</div><div>   o Octal</div><div>   o Hexadecimal</div><div>• Programming Logic</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Students will demonstrate what they have learned through the year by passing the exams. They will be given a practical and a written exam in each unit of study.</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>• Construct flowchart/pseudo code using Microsoft Visio</div><div>• Construct program for practical</div><div>• Rubric to evaluate the unit exam</div><div>• Rubric for participation in lab assignments, computer ethics, Internet and computer safety, cleanup lab area</div><div>• Peer-to-peer collaboration</div><div>• Topic quick-checks for review</div><div>• Unit test—Includes written and short answers sections</div><div>• Unit terminology test</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="FrontLoadedStandardAssessments"><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_3">ELA Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Read text, extensively, listen to lecture, Q &amp; A, take notes and apply information</div><div>- Complete vocabulary review activities</div><div>- Read and follow extensive/intricate directions</div><div>- Participate in small and large group review activities</div><div>ASR1, 7, 10</div><div>ASW 2, 4, 6</div><div>ASSL 2, 4, 5, 6</div><div>ASL 1, 2, 3, 4, 6</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_5">CFM/CDOS Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Demonstrate proficiency at most popular software programs connected with the work place</div><div>- Achieve certification status recognized by business and industry</div><div>-</div><div>CDOS 1, 2, 3</div></div></div></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="View" id="Atlas_View_Standards"><table class="StandardsDisplay"><tbody><tr class="ContentAreaRow" id="ContentArea_1000013470"><th colspan="1"><div class="ContentArea">MO: English/Language Arts</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079368"><th colspan="1"><div class="ContentSubArea">Reading</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492556"><td colspan="1"><div id="StateStandardLevel_1001492556"><div>Key Ideas and Details</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180910"><td><div id="StateStandard_1004180910"><div><span class="FlagCss">ASR1. Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492560"><td colspan="1"><div id="StateStandardLevel_1001492560"><div>Integration of Knowledge and Ideas</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180922"><td><div id="StateStandard_1004180922"><div><span class="FlagCss">ASR7. Integrate and evaluate content presented in diverse formats and media, including visually and quantitatively, as well as in words.1</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492562"><td colspan="1"><div id="StateStandardLevel_1001492562"><div>Range of Reading and Level of Text Complexity</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180928"><td><div id="StateStandard_1004180928"><div><span class="FlagCss">ASR10. Read and comprehend complex literary and informational texts independently and proficiently.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079370"><th colspan="1"><div class="ContentSubArea">Writing</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492564"><td colspan="1"><div id="StateStandardLevel_1001492564"><div>Text Types and Purposes1</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180932"><td><div id="StateStandard_1004180932"><div><span class="FlagCss">ASW2. Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492566"><td colspan="1"><div id="StateStandardLevel_1001492566"><div>Production and Distribution of Writing</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180936"><td><div id="StateStandard_1004180936"><div><span class="FlagCss">ASW4. Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180938"><td><div id="StateStandard_1004180938"><div><span class="FlagCss">ASW5. Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180940"><td><div id="StateStandard_1004180940"><div><span class="FlagCss">ASW6. Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079374"><th colspan="1"><div class="ContentSubArea">Language</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492576"><td colspan="1"><div id="StateStandardLevel_1001492576"><div>Conventions of Standard English</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180962"><td><div id="StateStandard_1004180962"><div><span class="FlagCss">ASL1. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180964"><td><div id="StateStandard_1004180964"><div><span class="FlagCss">ASL2. Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492578"><td colspan="1"><div id="StateStandardLevel_1001492578"><div>Knowledge of Language</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180966"><td><div id="StateStandard_1004180966"><div><span class="FlagCss">ASL3. Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492580"><td colspan="1"><div id="StateStandardLevel_1001492580"><div>Vocabulary Acquisition and Use</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180968"><td><div id="StateStandard_1004180968"><div><span class="FlagCss">ASL4. Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180972"><td><div id="StateStandard_1004180972"><div><span class="FlagCss">ASL6. Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013472"><th colspan="1"><div class="ContentArea">MO: Mathematics</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079376"><th colspan="1"><div class="ContentSubArea">Number and Quantity</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492582"><td colspan="1"><div id="StateStandardLevel_1001492582"><div>N-RN The Real Number System</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181002"><td><div id="StateStandard_1004181002"><div><span class="FlagCss">Extend the properties of exponents to rational exponents.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181004"><td><div id="StateStandard_1004181004"><div><span class="FlagCss">Use properties of rational and irrational numbers.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492584"><td colspan="1"><div id="StateStandardLevel_1001492584"><div>N-Q Quantities</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181006"><td><div id="StateStandard_1004181006"><div><span class="FlagCss">Reason quantitatively and use units to solve problems.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492588"><td colspan="1"><div id="StateStandardLevel_1001492588"><div>N-VM Vector and Matrix Quantities</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181014"><td><div id="StateStandard_1004181014"><div><span class="FlagCss">Represent and model with vector quantities.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181016"><td><div id="StateStandard_1004181016"><div><span class="FlagCss">Perform operations on vectors.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181018"><td><div id="StateStandard_1004181018"><div><span class="FlagCss">Perform operations on matrices and use matrices in applications.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079378"><th colspan="1"><div class="ContentSubArea">Algebra</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492590"><td colspan="1"><div id="StateStandardLevel_1001492590"><div>A-SSE Seeing Structure in Expressions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181020"><td><div id="StateStandard_1004181020"><div><span class="FlagCss">Interpret the structure of expressions.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181022"><td><div id="StateStandard_1004181022"><div><span class="FlagCss">Write expressions in equivalent forms to solve problems.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492592"><td colspan="1"><div id="StateStandardLevel_1001492592"><div>A-APR Arithmetic with Polynomials and Rational Expressions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181024"><td><div id="StateStandard_1004181024"><div><span class="FlagCss">Perform arithmetic operations on polynomials.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181026"><td><div id="StateStandard_1004181026"><div><span class="FlagCss">Understand the relationship between zeros and factors of polynomials.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181028"><td><div id="StateStandard_1004181028"><div><span class="FlagCss">Use polynomial identities to solve problems.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181030"><td><div id="StateStandard_1004181030"><div><span class="FlagCss">Rewrite rational expressions.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492594"><td colspan="1"><div id="StateStandardLevel_1001492594"><div>A-CED Creating Equations</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181032"><td><div id="StateStandard_1004181032"><div><span class="FlagCss">Create equations that describe numbers or relationships.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492596"><td colspan="1"><div id="StateStandardLevel_1001492596"><div>A-REI Reasoning with Equations and Inequalities</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181034"><td><div id="StateStandard_1004181034"><div><span class="FlagCss">Understand solving equations as a process of reasoning and explain the reasoning.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181036"><td><div id="StateStandard_1004181036"><div><span class="FlagCss">Solve equations and inequalities in one variable.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181038"><td><div id="StateStandard_1004181038"><div><span class="FlagCss">Solve systems of equations.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181040"><td><div id="StateStandard_1004181040"><div><span class="FlagCss">Represent and solve equations and inequalities graphically.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079380"><th colspan="1"><div class="ContentSubArea">Functions</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492598"><td colspan="1"><div id="StateStandardLevel_1001492598"><div>F-IF Interpreting Functions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181042"><td><div id="StateStandard_1004181042"><div><span class="FlagCss">Understand the concept of a function and use function notation.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181044"><td><div id="StateStandard_1004181044"><div><span class="FlagCss">Interpret functions that arise in applications in terms of the context.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181046"><td><div id="StateStandard_1004181046"><div><span class="FlagCss">Analyze functions using different representations.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492600"><td colspan="1"><div id="StateStandardLevel_1001492600"><div>F-BF Building Functions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181048"><td><div id="StateStandard_1004181048"><div><span class="FlagCss">Build a function that models a relationship between two quantities.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181050"><td><div id="StateStandard_1004181050"><div><span class="FlagCss">Build new functions from existing functions.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492604"><td colspan="1"><div id="StateStandardLevel_1001492604"><div>F-TF Trigonometric Functions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181056"><td><div id="StateStandard_1004181056"><div><span class="FlagCss">Extend the domain of trigonometric functions using the unit circle.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181058"><td><div id="StateStandard_1004181058"><div><span class="FlagCss">Model periodic phenomena with trigonometric functions.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181060"><td><div id="StateStandard_1004181060"><div><span class="FlagCss">Prove and apply trigonometric identities.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079382"><th colspan="1"><div class="ContentSubArea">Geometry</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492616"><td colspan="1"><div id="StateStandardLevel_1001492616"><div>G-MG Modeling with Geometry</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181090"><td><div id="StateStandard_1004181090"><div><span class="FlagCss">Apply geometric concepts in modeling situations.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079384"><th colspan="1"><div class="ContentSubArea">Statistics and Probability</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492618"><td colspan="1"><div id="StateStandardLevel_1001492618"><div>S-ID Interpreting Categorical and Quantitative Data</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181092"><td><div id="StateStandard_1004181092"><div><span class="FlagCss">Summarize, represent, and interpret data on a single count or measurement variable.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181094"><td><div id="StateStandard_1004181094"><div><span class="FlagCss">Summarize, represent, and interpret data on two categorical and quantitative variables.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181096"><td><div id="StateStandard_1004181096"><div><span class="FlagCss">Interpret linear models.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492620"><td colspan="1"><div id="StateStandardLevel_1001492620"><div>S-IC Making Inferences and Justifying Conclusions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181098"><td><div id="StateStandard_1004181098"><div><span class="FlagCss">Understand and evaluate random processes underlying statistical experiments.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181100"><td><div id="StateStandard_1004181100"><div><span class="FlagCss">Make inferences and justify conclusions from sample surveys, experiments and observational studies.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492622"><td colspan="1"><div id="StateStandardLevel_1001492622"><div>S-CP Conditional Probability and the Rules of Probability</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181102"><td><div id="StateStandard_1004181102"><div><span class="FlagCss">Understand independence and conditional probability and use them to interpret data.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181104"><td><div id="StateStandard_1004181104"><div><span class="FlagCss">Use the rules of probability to compute probabilities of compound events in a uniform probability model.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492624"><td colspan="1"><div id="StateStandardLevel_1001492624"><div>S-MD Using Probability to Make Decisions</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181106"><td><div id="StateStandard_1004181106"><div><span class="FlagCss">Calculate expected values and use them to solve problems.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181108"><td><div id="StateStandard_1004181108"><div><span class="FlagCss">Use probability to evaluate outcomes of decisions.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013478"><th colspan="1"><div class="ContentArea">MO: Career Development and Occupational Studies</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079402"><th colspan="1"><div class="ContentSubArea">CDOS</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492704"><td colspan="1"><div id="StateStandardLevel_1001492704"><div>Standard 2: Integrated Learning</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181312"><td><div id="StateStandard_1004181312"><div><span class="FlagCss">Students will demonstrate how academic knowledge and skills are applied in the workplace and other settings.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492706"><td colspan="1"><div id="StateStandardLevel_1001492706"><div>Standard 3a: Universal Foundation Skills</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_2000000002"><td><div id="StateStandard_2000000002"><div class="UI_DivCollapsible Collapsed" id="divOuter_SS_2000000002_1_1421462169"><div class="UI_Div_Collapsible_Headers"><div class="HeaderForCollapsed" id="divOuter_SS_2000000002_1_1421462169_hfc"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_DOWN_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-down-darker-small.png?v=Atlas8.1.0.98" width="18" />Show details</a></div><div class="HeaderForExpanded" id="divOuter_SS_2000000002_1_1421462169_hfe" style="display: none"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_UP_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-up-darker-small.png?v=Atlas8.1.0.98" width="18" />Hide details</a></div></div><div class="InnerDiv" id="divInnerdivOuter_SS_2000000002_1_1421462169" style="display: none"><div class="StandardsDescription">1.	Basic Skills<br />
+2.	Thinking Skills<br />
+3.	Personal Qualities<br />
+4.	Interpersonal Skills<br />
+5.	Technology<br />
+6.	Managing Information<br />
+7.	Managing Resources<br />
+8.	Systems</div></div></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079404"><th colspan="1"><div class="ContentSubArea">Career Majors</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492708"><td colspan="1"><div id="StateStandardLevel_1001492708"><div>1. Business/Information Systems</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181330"><td><div id="StateStandard_1004181330"><div><span class="FlagCss">Business and Computer Science</span></div></div></td></tr></tbody></table><div class="CopyrightClause"></div></div></div><br />
+</div></td></tr></tbody></table></div></div><div class="displayTableFooter"><div></div></div></div><div class="browseMapFooter"></div></div><div class="View" id="copyright"><div class="atlasversion" id="AtlasVersion">Atlas Version 8.1.1</div><div class="copyrightnotice">&copy; <a class="BackLinkFlagged" href="http://www.rubicon.com/" id="RubiconLink">Rubicon International</a> 2016. All rights reserved</div><div class="HideOnPrint" id="SocialIcons"></div></div></div>
+		 </div>
+		</body>
+		</html>

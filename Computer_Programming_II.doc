@@ -1,0 +1,664 @@
+		<html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+			xmlns="http://www.w3.org/TR/REC-html40">
+		<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="ProgId" content="Word.Document"/>
+		<meta name="Generator" content="Microsoft Word 12"/>
+		<meta name="Originator" content="Microsoft Word 12"/>
+		<!--[if !mso]>
+		<style type="text/css">
+		v\:* {behavior:url(#default#VML);}
+		o\:* {behavior:url(#default#VML);}
+		w\:* {behavior:url(#default#VML);}
+		.shape {behavior:url(#default#VML);}
+		</style>
+		<![endif]-->
+		<!--[if gte mso 9]><xml>
+		 <w:WordDocument>
+		  <!--<w:View>Print</w:View>-->
+		  <w:TrackMoves>false</w:TrackMoves>
+		  <w:TrackFormatting/>
+		  <w:DoNotHyphenateCaps/>
+		  <w:PunctuationKerning/>
+		  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+		  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+		  <w:ValidateAgainstSchemas/>
+		  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+		  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+		  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+		  <w:DoNotPromoteQF/>
+		  <w:LidThemeOther>EN-US</w:LidThemeOther>
+		  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+		  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+		  <w:Compatibility>
+		   <w:BreakWrappedTables/>
+		   <w:SnapToGridInCell/>
+		   <w:WrapTextWithPunct/>
+		   <w:UseAsianBreakRules/>
+		   <w:DontGrowAutofit/>
+		   <w:SplitPgBreakAndParaMark/>
+		   <w:DontVertAlignCellWithSp/>
+		   <w:DontBreakConstrainedForcedTables/>
+		   <w:DontVertAlignInTxbx/>
+		   <w:Word11KerningPairs/>
+		   <w:CachedColBalance/>
+		  </w:Compatibility>
+		  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+		  <m:mathPr>
+		   <m:mathFont m:val="Cambria Math"/>
+		   <m:brkBin m:val="before"/>
+		   <m:brkBinSub m:val="&#45;-"/>
+		   <m:smallFrac m:val="off"/>
+		   <m:dispDef/>
+		   <m:lMargin m:val="0"/>
+		   <m:rMargin m:val="0"/>
+		   <m:defJc m:val="centerGroup"/>
+		   <m:wrapIndent m:val="1440"/>
+		   <m:intLim m:val="subSup"/>
+		   <m:naryLim m:val="undOvr"/>
+		  </m:mathPr></w:WordDocument>
+		</xml><![endif]-->
+		<style type="text/css">
+		<!--
+		 /* Font Definitions */
+		@font-face
+			{font-family:Verdana;
+			panose-1:2 11 6 4 3 5 4 4 2 4;
+			mso-font-charset:0;
+			mso-generic-font-family:swiss;
+			mso-font-pitch:variable;
+			mso-font-signature:536871559 0 0 0 415 0;}
+		 /* Style Definitions */
+		p.MsoNormal, li.MsoNormal, div.MsoNormal
+			{mso-style-unhide:no;
+			mso-style-qformat:yes;
+			mso-style-parent:"";
+			margin:0in;
+			margin-bottom:.0001pt;
+			mso-pagination:widow-orphan;
+			font-size:7.5pt;
+				mso-bidi-font-size:8.0pt;
+			font-family:"Verdana";
+			mso-fareast-font-family:"Verdana";}
+		p.small
+			{mso-style-parent:"";
+			margin:0in;
+			margin-bottom:.0001pt;
+			mso-pagination:widow-orphan;
+			font-size:1.0pt;
+				mso-bidi-font-size:1.0pt;
+			font-family:"Verdana";
+			mso-fareast-font-family:"Verdana";}
+		@page Section1
+			{
+			size: 11.0in 8.5in; mso-page-orientation: landscape;
+			margin:.5in .5in .5in .5in;
+			mso-header-margin:.5in;
+			mso-footer-margin:.5in;
+			mso-paper-source:0;}
+		div.Section1
+			{page:Section1;}
+		-->
+		</style>
+		<!--[if gte mso 10]>
+		<style>
+		 /* Style Definitions */
+		 table.MsoNormalTable
+			{mso-style-name:"Table Normal";
+			mso-tstyle-rowband-size:0;
+			mso-tstyle-colband-size:0;
+			mso-style-noshow:yes;
+			mso-style-priority:99;
+			mso-style-qformat:yes;
+			mso-style-parent:"";
+			mso-padding-alt:0in 5.4pt 0in 5.4pt;
+			mso-para-margin:0in;
+			mso-para-margin-bottom:.0001pt;
+			mso-pagination:widow-orphan;
+			font-size:10.0pt;
+			font-family:"Times New Roman","serif";}
+		</style>
+		<![endif]--><!--[if gte mso 9]><xml>
+		 <o:shapedefaults v:ext="edit" spidmax="1032">
+		  <o:colormenu v:ext="edit" strokecolor="none"/>
+		 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+		 <o:shapelayout v:ext="edit">
+		  <o:idmap v:ext="edit" data="1"/>
+		 </o:shapelayout></xml><![endif]-->
+		<title>Atlas - Computer Programming II (MO) Madison-Oneida BOCES &gt; 2016-2017 &gt; High School &gt; Information Technology &gt; Computer Programming II (MO) &gt; Ciaralli, Cindy; Marris, Joshua; Regner, Chris</title>
+<style>
+@charset "UTF-8";body {
+    font-family: Arial, sans-serif;
+}
+#MainWrapper {
+	padding-top: 22px;
+	height: auto;
+}
+.HideOnPrint,
+.AtlasWrapping,
+.AtlasButton {
+	display: none;
+}
+#PrintContent,
+.PrintOnlyContent {
+	display: block;
+}
+#SubHeaderContainer {
+	width: 100%;
+    margin-left: 6px;
+}
+#SubHeaderContainer td.LogoCell {
+	width: 80px;
+}
+.cke_contents {
+	height: 100% !important;
+}
+#content {
+	padding: 0;
+}
+#contentcontainer {
+	float:none;
+}
+/* Removes overflow: hidden and display:inline-block to enable printing */
+.WrapTable {
+	overflow: auto;
+	display: block;
+}
+#Atlas_Browse_View_Map .WrapTable {
+	overflow: hidden;
+}
+	/* Hide Buttons and Icons on print */
+.displayTable .AtlasButton,
+.displayTableHeader .DrilldownIndicator {
+	display: none;
+}
+/* Hide most of the breadcrumbs, except for the title which has PrintOnlyContent */
+.breadcrumbs ul li {
+	display: none;
+}
+.breadcrumbs li.BreadcrumbTitle {
+	display: list-item;
+}
+
+/* ICP: allow printing Atlas_Develop_UnitMap_Default. Make it look like browse-mode,
+hide moving pieces */
+
+.toggleeditor,
+.togglewidget {
+	margin: 1px 0;
+}
+
+/*Always show expanded rows*/
+table.main {
+	width: 98%;
+	margin: 0 auto;
+}
+.collapsedRow .collapsedCategory,
+.collapsedRowInSection .collapsedCategory {
+	display: none;
+}
+td[width="50"] {
+	width: 0 !important;
+}
+/* Force print-friendly borders on planner */
+#UnitMapContainer tr,
+#UnitMapContainer td,
+.EditUnit .toggleeditor,
+#UnitEditBarView #UnitSelectorTrigger:hover,
+#UnitEditBarView .Popover.Active #UnitSelectorTrigger,
+.EditUnit #UnitEditBarView #UnitSelectorTrigger {
+	border: none;
+}
+#UnitMapContainer > table > tbody > tr,
+#UnitMapContainer > table > tr {
+	border: 1px solid #c3c3c3 !important;
+}
+td.MappingCategoryCell {
+	border-bottom: 1px solid #c3c3c3 !important;
+	border-right: 1px solid #c3c3c3 !important;
+}
+td.MappingCategoryCell:last-child {
+	border-right: none !important;
+}
+.AttachmentIcon {
+	left: 0;
+}
+/* 
+*	Some ICP View/Edit elements require specific selectors for hiding effectively.
+*	Before adding selectors to this block, see if .HideOnPrint can handle hiding on its own
+*/
+#UnitMapContainer .UnitStandardAssessmentContainer .HeaderForCollapsed,
+#UnitMapContainer .UnitStandardAssessmentContainer .HeaderForExpanded,
+#UnitMapContainer .Atlas_Develop_StandardsAlignment_View_Objectives a.ShowDetails,
+.Handle.HideOnPrint,
+#UnitEditBarView h1:hover #UnitSelectorArrow,
+#UnitEditBarView .Popover.Active #UnitSelectorArrow,
+.EditUnit #UnitSelectorArrow {
+	display: none;
+}
+#UnitMapContainer .adminDisplayTableActionCell,
+#UnitMapContainer .draggableCell,
+#UnitMapContainer .deleteStandard,
+.AttachmentsDelegate .PopoverTrigger {
+	visibility: hidden;
+}
+/* bug #18400 make sure assessment details are hidden when printing */
+.UnitStandardAssessmentContainer .AssessmentStandardsSummaryContainer {
+	display: none;
+}
+.UnitStandardAssessmentContainer .AssessmentNoStandardsAssessedMessage {
+	display: none;
+}
+/* remove text-decoration from planner anchors */
+.CategoryLabel a,
+.AttachmentLink a,
+#MapTeachersDisplay a,
+#LinkToCalendar {
+	text-decoration: none;
+}
+/* Make the teachers display more print-y */
+#MapTeachersDisplay {
+	margin: 0 8px 8px;
+}
+/* AT-4274: we need to override these rules for viewonlytemplates */
+.EditUnit.ViewOnlyTemplate .Popover,
+.EditUnit.ViewOnlyTemplate .AddNewUnitStateStandard,
+.EditUnit.ViewOnlyTemplate .EditWidgetBtn,
+.EditUnit.ViewOnlyTemplate .AtlasButton, 
+.EditUnit.ViewOnlyTemplate .DeleteStateStandardButton, 
+.EditUnit.ViewOnlyTemplate .StandardsNoResultsContent {
+	display: none;
+}
+/* AT-4282 collapse padding of SSL and make it look like a list-item */
+#UnitMapContainer .StateStandardRow .FlagCss {
+	display: list-item;
+}
+#UnitMapContainer .StateStandardRow > td {
+	padding: 0;
+}
+/* avoid overflowing table content on print */
+#Atlas_Develop_UnitMap_View_Default #UnitMapContainer {
+	margin: 0;
+}
+/* Unit Calendar  */
+#units tr.UnitRow td {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+#Atlas_Develop_View_UnitCalendar .unitbar {
+	display: none;
+}
+#UnitCalendarContainer {
+	position: relative;
+}
+.PrintMarkerDiv {
+	position: absolute;
+	width: 1px;
+	z-index: 2000;
+}
+#units tr td.printmarker,
+#units tr td.printmarker img {
+	height: 100%;
+}
+.BGImageContainer {
+	position: relative;
+}
+.LockedArrowIcon, .LargeLockedArrowIcon {
+	color: #000000;
+	text-shadow: none;
+	border: 1px solid #000000;
+}
+/** Curriculum Map */
+.ShowDetails.Action_CollapseExpand {
+	display: none;
+}
+#Atlas_Browse_View_Map {
+	margin-top: -20px;
+}
+#Atlas_Browse_View_Map .displayTable > thead > tr > th {
+	width: initial;
+}
+.resizable.AdjustedWidthTable {
+	table-layout: fixed;
+	word-wrap: normal;
+}
+
+#Atlas_Browse_View_Map .WrapTable {
+    margin-left: 15px;
+}
+
+span.PrintOnlyContent.Right {
+    /* 15px + 6px from the subHeaderContainer's margin-left SASS!*/
+    margin-right: 21px;
+}
+
+@page {
+    margin: 0;
+}
+
+
+body, html {
+    background-color: #FFFFFF;
+    color: #333333;
+}
+td{
+    color: #333333;
+}
+a, .link {
+    color: #00447c;
+}
+#reportHeaderContent,
+.ReportDisplayTable,
+.displayTable {
+    width: 100%;
+}
+#reportHeaderContent th {
+    text-align: left;
+}
+#reportBack, #reportClose {
+    width: 100px;
+}
+#reportDisplayTable,
+.ReportDisplayTable,
+.displayTable {
+    vertical-align: top;
+}
+.displayTable td,
+.displayTable th,
+.displayTableCell,
+.ReportDisplayTable td{
+    padding: 10px;
+}
+.displayTableHeader {
+    text-align: left;
+    border-bottom: 1px solid #C2C2C2;
+}
+.displayTable,
+.displayTable th,
+.displayTable td,
+#reportDisplayTable,
+#reportDisplayTable td,
+#reportDisplayTable th,
+.ReportDisplayTable,
+.ReportDisplayTable td,
+.ReportDisplayTable th {
+    border: 1px solid #C2C2C2;
+    vertical-align: top;
+    text-align: left;
+    border-collapse: collapse;
+}
+#reportDisplayTable .displayTable {
+    border-width: 0;
+}
+#ReportTitle {
+    font-size: 14pt;
+}
+#ReportSubTitle {
+    font-size: 125%;
+}
+#ReportDate {
+    color: #C2C2C2;
+    font-size: 10pt;
+}
+.StandardsDisplay th {
+    text-align: left;
+    font-weight: normal;
+}
+#copyright {
+    font-size: 80%;
+    float: right;
+    text-align: right;
+    margin: 10px 0;
+    padding: 10px 0;
+    border-top: 1px solid #C2C2C2;
+}
+.oddRow {
+    background-color: #F9F9F8;
+}
+/* Search Reports */
+.UnitTable {
+    border: none !important;
+}
+.UnitTable td,
+.UnitTable tr {
+    border: none !important;
+}
+.searchresultitem .class {
+    border-top: 1px solid #C2C2C2;
+    padding: 10px 5px 5px;
+}
+.searchresultitem .Attachments {
+    margin-top: 5px;
+    margin-left: 45px;
+}
+
+.Attachments a img.LinkWithIcon {
+    display: block;
+}
+.fHI i {
+    font-weight: normal !important;
+    font-style: italic;
+    color: #0066CC;
+    display: inline-block;
+    margin-right: 10px;
+}
+/* Formatting Standards Displays */
+.StandardsDisplay {
+    width: 100%;
+}
+.StandardsDisplay th,
+.StandardsDisplay td,
+#Atlas_View_Standards .StandardsDisplay > div,
+#EditForm .StandardsDisplay td {
+    padding: 5px 0;
+    vertical-align: top;
+}
+.StandardsDisplay div.ContentAreaContainer div,
+.StandardsDisplay div.BenchmarkLevelContainer div,
+.StandardsDisplay div.ContentSubAreaContainer div {
+    margin: 3px 0;
+    color: #333333;
+    text-align: left;
+}
+.StandardsDisplay div.StateStandardContainer div {
+    margin: 10px 0;
+}
+.StandardsDisplay div.ContentAreaContainer div.ContentArea{
+    font-size: 12pt;
+    font-weight: bold;
+}
+.StandardsDisplay div.BenchmarkLevelContainer div.BenchmarkLevel{
+    margin-left: 5px;
+    font-size: 10pt;
+    font-weight: bold;
+    border-bottom: 1px solid #333333;
+}
+.StandardsDisplay div.ContentSubAreaContainer div.ContentSubArea {
+    margin-left: 10px;
+    font-size: 12pt;
+    font-weight: bold;
+}
+.StandardsDisplay div.StateStandardLevelContainer div.StateStandardLevel {
+    margin-left: 15px;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.StandardsDisplay div.StateStandardContainer div.StateStandard {
+    margin-left: 20px;
+    font-size: 10pt;
+}
+span.LargeLockedArrowIcon,
+.LockedArrowIcon,
+#UnitMapContainer .StateStandardRow .HeaderForExpanded .FlagCss,
+.StandardsDisplay .ShowDetails {
+    display: none;
+}
+.StandardsDisplay .AssessmentProficiencyLevels {
+    margin-left: 5px;
+    font-style: italic;
+}
+.StandardsNoResultsContent {
+    padding: 15px 30px;
+}
+.StandardsAggregateCounts,
+.StandardsDescription {
+    margin: 3px 0;
+    color: #666666;
+    font-size: 93%;
+}
+.StandardsAggregateCounts a,
+.StandardsDescription a {
+    font-weight: normal;
+}
+/* Browse Course Descriptions Report */
+.BorderedDiv {
+    border: 1px solid #C2C2C2;
+    border-radius: 5px;
+    padding: 10px 5px;
+    background-color: #F9F9F8;
+}
+.SectionDivider {
+    border-bottom: 1px solid #C2C2C2;
+    padding: 0 0 10px;
+}
+#ItemLastUpdated {
+    font-size: 10pt;
+}
+/* Unit Planner */
+#UnitAttributes {
+    display: inline-block;
+    border-bottom: 10px solid #8c8c8c;
+    font-size: 10pt;
+    margin: 0 10px;
+    padding: 5px 0;
+}
+#UnitAttributes .AttributionWrapper {
+
+}
+.CategoryName .CategoryLabel {
+    padding: 10px 0;
+    color: #005daa;
+    font-size: 120%;
+}
+.CourseAssessmentOpportunityListTable {
+    border: none;
+}
+.PreviousNextYearLinks {
+    display: none;
+    font-size: 200%;
+}
+#UnitMapContainer .main {
+    border: 1px solid #C2C2C2;
+}
+.CustomUnitTemplateCell {
+    border-bottom: 1px solid #C2C2C2;
+}
+#UnitMapContainer .main div.curriculum {
+    margin: 0 8px;
+}
+.SubtitlesForMap,
+#MapTeachersDisplay {
+    padding: 5px 15px 10px;
+    font-size: 10pt;
+}
+div.toggleeditor {
+    padding: 0 20px;
+    margin: 0 20px;
+}
+.UnitMap .TextCell,
+.editmaptitle .UnitSectionContainer {
+     margin: 0 auto;
+     padding: 8px;
+     font-size: 12pt;
+     font-family: 'roboto_slablight',"Times New Roman","Bitstream Charter",serif;
+     font-weight: bold;
+    text-align: center;
+ }
+
+.UnitSectionContainer p {
+    margin-bottom: 0;
+}
+/* curriculum map view, unit map view  */
+#UnitMapContainer table,
+th.displayTableHeader,
+div.curriculum,
+div.WidgetDisplay,
+div.WidgetDisplay td,
+div.curriculum span,
+#UnitMapContainer .main .CategoryName {
+    font-size: 10pt !important;
+}
+.curriculum p {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+.UnitStandardAssessmentContainer p,
+.SchoolValueOpportunityDescription p{
+    margin: 0in;
+}
+.SchoolValueOpportunity,
+.UnitStandardAssessmentHeader {
+    font-weight: bold;
+}
+#Atlas_Browse_View_Map .UnitName {
+    font-weight: bold;
+    color: #00447c;
+}
+#Atlas_Browse_View_Map .UnitDuration {
+    font-style: italic;
+}
+.curriculum .UnitStandardAssessmentHeader {
+    font-weight: bold;
+}
+</style>
+		</head>
+		<body>
+		 <div class="Section1">
+		  <div id="MainWrapper"><div id="reportHeader"><table id="reportHeaderContent"><tbody><tr><td id="reportBack"><a class="BackLinkFlagged" href="#" id="reportBackLink"><img alt="" class="IMAGE_ATLAS_LOGO_DARK" height="70" src="https://moboces.rubiconatlas.org/common_images/AtlasLogoDark.png" width="79" /></a></td><td id="reportHeaderContainer"><div id="reportTitle">Computer Programming II<span id="MapTypeMarker_3"> (MO)</span> <div class="PrintOnlyContent"><span class="SubtitlesForMap"><span class="AttributionWrapper"><span class="AttributeTag">Madison-Oneida BOCES</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">2016-2017</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">High School</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Information Technology</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Computer Programming II<span id="MapTypeMarker_3"> (MO)</span></span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag"><span>Ciaralli, Cindy; Marris, Joshua; Regner, Chris</span></span></span></span></div></div><div class="HideOnPrint" id="ReportSubTitle"><span class="HideOnPrint"><span class="SubtitlesForMap"><span class="AttributionWrapper"><span class="AttributeTag">Madison-Oneida BOCES</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">2016-2017</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">High School</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Information Technology</span><span class="BreadcrumbSeparator"> &gt; </span><span class="AttributeTag">Computer Programming II<span id="MapTypeMarker_3"> (MO)</span></span></span></span></span></div><div id="ReportDate">Wednesday, July 27, 2016, 11:47PM</div></td><td id="reportClose"><a class="BackLinkFlagged" href="#" id="reportCloseLink"><img alt="" src="https://moboces.rubiconatlas.org/images/school_logo_small.png" /></a></td></tr></tbody></table></div><div class="HideOnPrint" id="UINotificationContainer"><div id="UINotification" style="display: none;"></div></div><div class="View" id="Atlas_Browse_View_Map"><span id="ActivitySummaryDelegate_1000"></span><span id="ShowComments"></span><div id="UI_ScreenshotDelegate_1000"></div><div class="View" id="Atlas_Browse_View_MapNavTabs"></div><div id="DisplayTableDelegate"><div class="ClearFix"><div class="WrapTable"><table class="displayTable ReportDisplayTable" id="AtlasReportDisplayTable_1"><thead><tr><th class="displayTableHeader">Unit</th><th class="displayTableHeader"><div>INDUSTRY-BASED OBJECTIVES</div></th><th class="displayTableHeader"><div>SAMPLE LEARNING EXPERIENCES </div></th><th class="displayTableHeader"><div>ASSESSMENT IDEAS</div></th><th class="displayTableHeader"><div>Credit Analysis</div></th><th class="displayTableHeader"><div>Academic Standards Crosswalk</div></th></tr></thead><tbody><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Hardware and Operating System</div></p><div class="UnitDuration">(Week 1, 1 Week)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>1. Hardware and Functions</div><div>Students will . . .</div><div>a. Identify and properly turn on and shut down the Macintosh workstation.</div><div>b. Identify and operate the keyboard and mouse.</div><div>c. Define and state the purpose of RAM and ROM.</div><div>d. Identify and state the purpose of storage memory.</div><div>e. List the three main types of storage devices, file server, hard disk and CD ROM</div><div>Vocabulary: Central Processing Unit, computer, hard disk, monitor, mouse, keyboard, click, drag, Random Access Memory, Read Only Memory, file server, internal hard disk, mega bytes, giga bytes.</div><div> </div><div>2. Macintosh Operating System X</div><div>Students will . . .</div><div>a. Identify and state the use of the desktop, menu bar, trash, desk icons, dock, and home.</div><div>b. Identify open and operate desktop windows.</div><div>c. Identify and state the purpose of the main window icons, folder, document and application.</div><div>d. Create, name, and relocate folders.</div><div>Vocabulary: desktop, icon, menu, select, multiple select, open, close, zoom, resize, scroll, scroll box, scroll bar, scroll arrow, title bar, active, inactive, folder, document, application.</div><div> </div><div>3. Home</div><div>Students will . . .</div><div>a. Identify and state the use of the System</div><div>Preferences and Apple menu.</div><div>b. Identify and operate the printer utility.</div><div>c. Be introduced to other OSX items.</div><div>Vocabulary: Apple menu, Print Utility, System Preferences.</div><div> </div><div>4. Opening an Application</div><div>Students will . . .</div><div>a. Create a new document and become familiar with a graphics program document window using the Adobe Illustrator application as a vehicle.</div><div>b. Compare and contrast terminology between traditional layout and electronic layout.</div><div>c. Save and relocate a document from within an application.</div><div>d. Compare and contrast the import and export commands.</div><div>Vocabulary: Save, Save as, document setup vs. page setup, floating palettes, rulers and ruler guides, zero set, paste board, and fill.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>1. Students will participate in a group lecture and class discussion on the basic concepts uses of the computer for graphic design.</div><div>2. Students will identify the components of the computer workstation and other peripheral devices within the Graphic Design lab.</div><div> </div><div>1. Students will participate in a guided practice and identify the basic setup of the Graphic Design computer workstation.</div><div>2. Students will participate in guided practice and navigate around the computer desktop and identify the menus and common commands.</div><div>3. Students will participate in a group lecture and discussion on Mac OSX and how the hardware, operating system, and software collectively control the computer environment.</div><div> </div><div>1.Students will be able to access operating system featured from the Apple menu and navigate through the classroom network to share files, locate and change printers and a variety of other standard functions.</div><div> </div><div>1.Students will participate in a group guided practice focused on locating and opening applications, leading to the creation of a document and saving the document into the proper folder on the computer work station.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div>Students will be assessed on their ability to routinely operate the computer to solve graphic design problems.</div><div> </div><div>Students will be evaluated on the accuracy of the shape transformation activity through the use of a rubric requiring a self-assessment and written assessment.</div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="FrontLoadedStandardAssessments"><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_3">ELA Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>- Listen to lecture/take notes</div><div>- Conduct research on the importance of file storage and types/report out to the class</div><div>- Locate an article about a file storage mishap/write a summary of how it could have been avoided</div><div>- Participate in formal class discussion</div><div>- Write a reflective summary of what was learned</div><div>- Interact in small groups</div><div>- Complete article review on current events topic</div><div> </div><div>ASSL 1, 2, 4, 5, 6</div><div>ASL 1, 3, 6,</div><div>ASW 4, 6, 7, 5</div></div></div><div class="UnitStandardAssessmentContainer"><div class="UnitStandardAssessmentHeader"><div class="CourseAssessmentOppNameContainer"></div><div><span class="StandardAssessmentType" id="StandardAssessmentType_5">CFM/CDOS Activities & Concepts</span>: <span class="StandardAssessmentOpportunity" id="StandardAssessmentOpportunity_16">Other written assessments</span></div></div><div class="UnitStandardAssessmentDescription"><div>Introduction to professional field of study. Sampling of equipment and software associated with visual design work CDOS 2, 3</div></div></div></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><div class="View" id="Atlas_View_Standards"><table class="StandardsDisplay"><tbody><tr class="ContentAreaRow" id="ContentArea_1000013470"><th colspan="1"><div class="ContentArea">MO: English/Language Arts</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079370"><th colspan="1"><div class="ContentSubArea">Writing</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492566"><td colspan="1"><div id="StateStandardLevel_1001492566"><div>Production and Distribution of Writing</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180936"><td><div id="StateStandard_1004180936"><div><span class="FlagCss">ASW4. Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180940"><td><div id="StateStandard_1004180940"><div><span class="FlagCss">ASW6. Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079372"><th colspan="1"><div class="ContentSubArea">Speaking and Listening</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492572"><td colspan="1"><div id="StateStandardLevel_1001492572"><div>Comprehension and Collaboration</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180950"><td><div id="StateStandard_1004180950"><div><span class="FlagCss">ASSL1. Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others’ ideas and expressing their own clearly and persuasively.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180952"><td><div id="StateStandard_1004180952"><div><span class="FlagCss">ASSL2. Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180954"><td><div id="StateStandard_1004180954"><div><span class="FlagCss">ASSL3. Evaluate a speaker’s point of view, reasoning, and use of evidence and rhetoric.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492574"><td colspan="1"><div id="StateStandardLevel_1001492574"><div>Presentation of Knowledge and Ideas</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180956"><td><div id="StateStandard_1004180956"><div><span class="FlagCss">ASSL4. Present information, findings, and supporting evidence such that listeners can follow the line of reasoning and the organization, development, and style are appropriate to task, purpose, and audience.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180958"><td><div id="StateStandard_1004180958"><div><span class="FlagCss">ASSL5. Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.</span></div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180960"><td><div id="StateStandard_1004180960"><div><span class="FlagCss">ASSL6. Adapt speech to a variety of contexts and communicative tasks, demonstrating command of formal English when indicated or appropriate.</span></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079374"><th colspan="1"><div class="ContentSubArea">Language</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492576"><td colspan="1"><div id="StateStandardLevel_1001492576"><div>Conventions of Standard English</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180962"><td><div id="StateStandard_1004180962"><div><span class="FlagCss">ASL1. Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492578"><td colspan="1"><div id="StateStandardLevel_1001492578"><div>Knowledge of Language</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180966"><td><div id="StateStandard_1004180966"><div><span class="FlagCss">ASL3. Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492580"><td colspan="1"><div id="StateStandardLevel_1001492580"><div>Vocabulary Acquisition and Use</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004180972"><td><div id="StateStandard_1004180972"><div><span class="FlagCss">ASL6. Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.</span></div></div></td></tr><tr class="ContentAreaRow" id="ContentArea_1000013478"><th colspan="1"><div class="ContentArea">MO: Career Development and Occupational Studies</div></th></tr><tr class="BenchmarkLevelRow" id="BenchmarkLevel_1000017912"><th colspan="1"><div class="BenchmarkLevel">MO: High School</div></th></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079402"><th colspan="1"><div class="ContentSubArea">CDOS</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492704"><td colspan="1"><div id="StateStandardLevel_1001492704"><div>Standard 2: Integrated Learning</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181312"><td><div id="StateStandard_1004181312"><div><span class="FlagCss">Students will demonstrate how academic knowledge and skills are applied in the workplace and other settings.</span></div></div></td></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492706"><td colspan="1"><div id="StateStandardLevel_1001492706"><div>Standard 3a: Universal Foundation Skills</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_2000000002"><td><div id="StateStandard_2000000002"><div class="UI_DivCollapsible Collapsed" id="divOuter_SS_2000000002_1_1421462376"><div class="UI_Div_Collapsible_Headers"><div class="HeaderForCollapsed" id="divOuter_SS_2000000002_1_1421462376_hfc"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_DOWN_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-down-darker-small.png?v=Atlas8.1.0.98" width="18" />Show details</a></div><div class="HeaderForExpanded" id="divOuter_SS_2000000002_1_1421462376_hfe" style="display: none"><div><span class="FlagCss"> Students will demonstrate mastery of the foundation skills and competencies essential for success in the workplace.</span></div><a class="ShowDetails Action_CollapseExpand" href="javascript://" onclick="return false;"><img alt="" class="ICON IMAGE_CARET_UP_DARKER_SMALL" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/caret-up-darker-small.png?v=Atlas8.1.0.98" width="18" />Hide details</a></div></div><div class="InnerDiv" id="divInnerdivOuter_SS_2000000002_1_1421462376" style="display: none"><div class="StandardsDescription">1.	Basic Skills<br />
+2.	Thinking Skills<br />
+3.	Personal Qualities<br />
+4.	Interpersonal Skills<br />
+5.	Technology<br />
+6.	Managing Information<br />
+7.	Managing Resources<br />
+8.	Systems</div></div></div></div></td></tr><tr class="ContentSubAreaRow" id="ContentSubArea_1000079404"><th colspan="1"><div class="ContentSubArea">Career Majors</div></th></tr><tr class="StateStandardLevelRow" id="StateStandardLevelRow_1001492718"><td colspan="1"><div id="StateStandardLevel_1001492718"><div>6. Arts & Humanities</div></div></td></tr><tr class="StateStandardRow" id="StateStandardRow_1004181370"><td><div id="StateStandard_1004181370"><div><span class="FlagCss">Graphic Design</span></div></div></td></tr></tbody></table><div class="CopyrightClause"></div></div></div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Command Line</div></p><div class="UnitDuration">(Week 2, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><ul><li>Use the command line to run programs and install software</li><li>Use the command line for version control</li><li>Write short scripts using a text editor and various commands</li><li>Use Powershell on Windows</li><li>Remotely log into Linux servers</li></ul></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Build and administer a Linux server</p><p>Enable remote login</p><p>Create users and passwords</p><p>Save shell scripts to text files</p><p>&nbsp;</p><div class="Attachments"><a href="https://www.codeschool.com/learn/git" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Git course on CodeSchool</span></a><br />
+<a href="https://www.codecademy.com/learn/learn-the-command-line" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Learn the Command Line on Codecademy</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Powerpoint presentation on Command Line</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Phonegap</div></p><div class="UnitDuration">(Week 10, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><ul><li>Create a new mobile app using the phonegap framework</li><li>Use the various APIs available through the phonegap framework</li><li>Serve an app to a phone for testing</li><li>Build and deploy mobile apps using phonegap</li></ul></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Design and create a mobile app and test it on a mobile device</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Project with rubric</p><p>Presentation on Phonegap and their app</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Web Apps</div></p><div class="UnitDuration">(Week 18, 7 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Create a browser-based front-end for software that is accessible from mobile and desktop devices</p><p>Use HTML, CSS and JavaScript to make a web page</p><p>Store information locally and on a web server in order to preserve data between sessions</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Install and configure Apache web server on Linux server or Docker container</p><p>&nbsp;</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Powerpoint presentation on web app development</p><p>Powerpoint presentation on individual or group development of web app</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="evenRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">Node.js</div></p><div class="UnitDuration">(Week 25, 8 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><ul><li>Build a web app using HTML, CSS, JavaScript and Node.js</li><li>Write a web server using JavaScript and Node.js</li><li>Design an app that communicates with a central Node.js service via web front-end on desktop and mobile devices</li><li>Describe templating frameworks</li><li>Describe the differences in purpose between Node app frameworks (Angular, Ember, Express)</li></ul></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Install and Configure node</p><p>Learn the npm system for installing packages</p><p>Use a text editor to produce web and server code</p><div class="Attachments"><a href="https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Using Node.js with Visual Studio Code</span></a><br />
+<a href="http://socket.io/get-started/chat" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Create a Chat server with socket.io</span></a><br />
+<a href="https://www.codeschool.com/courses/shaping-up-with-angular-js" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Shaping up with Angular.js</span></a><br />
+<a href="https://www.codeschool.com/courses/real-time-web-with-node-js" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">Real Time Web with Node.js</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Project with rubric:</p><p>Create a game with server backend</p><p>Use Node to enable communication between students</p><p>Powerpoint presentation on Node.js</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr><tr class="oddRow"><td class="displayTableCell CurriculumMapLabelCell" valign="top"><div class="HideOnPrint"><a class="AtlasButton Action_HideRow Left" href="#"><span class="AtlasButtonShim"></span>X</a></div><p><div class="UnitName">SQL</div></p><div class="UnitDuration">(Week 33, 7 Weeks)</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Install, configure and administer MySQL on Linux server and/or Windows workstation</p><p>Describe the commands used to create and read information within a database</p><p>Create databases, tables and records on a MySQL server</p><p>Use database records to populate a web page</p><p>Use database records to store information</p><div class="Attachments"><a class="HideOnPublicSite" href="https://schools.safaribooksonline.com/library/view/mysql-cookbook-3rd/9781449374112/cover.html" target="_blank"><img alt="" class="ICON IMAGE_WEB_LINK LinkWithIcon" height="18" src="https://moboces.rubiconatlas.org/common_images/icons/web.png" width="18" /><span class="LinkName WordBreakEnabled">https://schools.safaribooksonline.com/library/view/mysql-cookbook-3rd/9781449374112/cover.html</span></a></div></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Install MySQL on a server or workstation</p><p>Define the commonly-used commands for creating and reading databases, tables and records</p><p>Interactive tutorials on SQL</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"><p>Game scores stored in database w/rubric</p><p>Powerpoint presentation on SQL/MySQL</p></div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td><td class="displayTableCell" valign="top"><div><div class="curriculum"> </div><br />
+</div></td></tr></tbody></table></div></div><div class="displayTableFooter"><div></div></div></div><div class="browseMapFooter"></div></div><div class="View" id="copyright"><div class="atlasversion" id="AtlasVersion">Atlas Version 8.1.1</div><div class="copyrightnotice">&copy; <a class="BackLinkFlagged" href="http://www.rubicon.com/" id="RubiconLink">Rubicon International</a> 2016. All rights reserved</div><div class="HideOnPrint" id="SocialIcons"></div></div></div>
+		 </div>
+		</body>
+		</html>
